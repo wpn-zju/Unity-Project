@@ -1,0 +1,118 @@
+
+guihuoblue.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/dead1
+  rotate: false
+  xy: 2, 107
+  size: 76, 103
+  orig: 76, 103
+  offset: 0, 0
+  index: -1
+images/dead2
+  rotate: false
+  xy: 2, 2
+  size: 76, 103
+  orig: 76, 103
+  offset: 0, 0
+  index: -1
+images/dead3
+  rotate: false
+  xy: 80, 107
+  size: 76, 103
+  orig: 76, 103
+  offset: 0, 0
+  index: -1
+images/dead4
+  rotate: false
+  xy: 80, 2
+  size: 76, 103
+  orig: 76, 103
+  offset: 0, 0
+  index: -1
+images/dead5
+  rotate: false
+  xy: 158, 107
+  size: 76, 103
+  orig: 76, 103
+  offset: 0, 0
+  index: -1
+images/hurt
+  rotate: false
+  xy: 158, 2
+  size: 76, 103
+  orig: 76, 103
+  offset: 0, 0
+  index: -1
+images/shenti01
+  rotate: false
+  xy: 236, 107
+  size: 76, 103
+  orig: 76, 103
+  offset: 0, 0
+  index: -1
+images/shenti02
+  rotate: false
+  xy: 236, 2
+  size: 76, 103
+  orig: 76, 103
+  offset: 0, 0
+  index: -1
+images/shenti03
+  rotate: false
+  xy: 314, 107
+  size: 76, 103
+  orig: 76, 103
+  offset: 0, 0
+  index: -1
+images/shenti04
+  rotate: false
+  xy: 314, 2
+  size: 76, 103
+  orig: 76, 103
+  offset: 0, 0
+  index: -1
+images/shenti05
+  rotate: false
+  xy: 392, 107
+  size: 76, 103
+  orig: 76, 103
+  offset: 0, 0
+  index: -1
+images/shenti06
+  rotate: false
+  xy: 392, 2
+  size: 76, 103
+  orig: 76, 103
+  offset: 0, 0
+  index: -1
+images/shenti07
+  rotate: false
+  xy: 470, 107
+  size: 76, 103
+  orig: 76, 103
+  offset: 0, 0
+  index: -1
+images/shenti08
+  rotate: false
+  xy: 470, 2
+  size: 76, 103
+  orig: 76, 103
+  offset: 0, 0
+  index: -1
+images/shenti09
+  rotate: false
+  xy: 548, 107
+  size: 76, 103
+  orig: 76, 103
+  offset: 0, 0
+  index: -1
+images/shenti10
+  rotate: false
+  xy: 548, 2
+  size: 76, 103
+  orig: 76, 103
+  offset: 0, 0
+  index: -1

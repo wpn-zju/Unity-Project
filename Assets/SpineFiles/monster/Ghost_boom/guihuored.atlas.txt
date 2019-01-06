@@ -1,0 +1,118 @@
+
+guihuored.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/dead1
+  rotate: false
+  xy: 2, 2
+  size: 83, 112
+  orig: 83, 112
+  offset: 0, 0
+  index: -1
+images/dead2
+  rotate: false
+  xy: 87, 116
+  size: 83, 112
+  orig: 83, 112
+  offset: 0, 0
+  index: -1
+images/dead3
+  rotate: false
+  xy: 87, 2
+  size: 83, 112
+  orig: 83, 112
+  offset: 0, 0
+  index: -1
+images/dead4
+  rotate: false
+  xy: 172, 116
+  size: 83, 112
+  orig: 83, 112
+  offset: 0, 0
+  index: -1
+images/dead5
+  rotate: false
+  xy: 2, 116
+  size: 83, 112
+  orig: 83, 112
+  offset: 0, 0
+  index: -1
+images/hurt
+  rotate: false
+  xy: 172, 2
+  size: 83, 112
+  orig: 83, 112
+  offset: 0, 0
+  index: -1
+images/shenti01
+  rotate: false
+  xy: 257, 116
+  size: 83, 112
+  orig: 83, 112
+  offset: 0, 0
+  index: -1
+images/shenti02
+  rotate: false
+  xy: 257, 2
+  size: 83, 112
+  orig: 83, 112
+  offset: 0, 0
+  index: -1
+images/shenti03
+  rotate: false
+  xy: 342, 116
+  size: 83, 112
+  orig: 83, 112
+  offset: 0, 0
+  index: -1
+images/shenti04
+  rotate: false
+  xy: 342, 2
+  size: 83, 112
+  orig: 83, 112
+  offset: 0, 0
+  index: -1
+images/shenti05
+  rotate: false
+  xy: 427, 116
+  size: 83, 112
+  orig: 83, 112
+  offset: 0, 0
+  index: -1
+images/shenti06
+  rotate: false
+  xy: 427, 2
+  size: 83, 112
+  orig: 83, 112
+  offset: 0, 0
+  index: -1
+images/shenti07
+  rotate: false
+  xy: 512, 116
+  size: 83, 112
+  orig: 83, 112
+  offset: 0, 0
+  index: -1
+images/shenti08
+  rotate: false
+  xy: 512, 2
+  size: 83, 112
+  orig: 83, 112
+  offset: 0, 0
+  index: -1
+images/shenti09
+  rotate: false
+  xy: 597, 116
+  size: 83, 112
+  orig: 83, 112
+  offset: 0, 0
+  index: -1
+images/shenti10
+  rotate: false
+  xy: 597, 2
+  size: 83, 112
+  orig: 83, 112
+  offset: 0, 0
+  index: -1

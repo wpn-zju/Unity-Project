@@ -1,0 +1,160 @@
+
+duzhenlaoshu.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/D_01
+  rotate: false
+  xy: 2, 27
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_02
+  rotate: false
+  xy: 103, 27
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_03
+  rotate: false
+  xy: 204, 27
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_04
+  rotate: false
+  xy: 305, 27
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_05
+  rotate: false
+  xy: 406, 27
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_06
+  rotate: false
+  xy: 507, 27
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_07
+  rotate: false
+  xy: 608, 27
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/hurt
+  rotate: false
+  xy: 709, 50
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+images/jiao
+  rotate: false
+  xy: 880, 100
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+images/jiao2
+  rotate: false
+  xy: 892, 118
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+images/shenti
+  rotate: false
+  xy: 850, 96
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+images/shoubi
+  rotate: true
+  xy: 709, 27
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+images/shoubi2
+  rotate: true
+  xy: 31, 17
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+images/tou
+  rotate: false
+  xy: 757, 91
+  size: 45, 35
+  orig: 45, 35
+  offset: 0, 0
+  index: -1
+images/tou 2
+  rotate: false
+  xy: 804, 91
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+images/tou 3
+  rotate: false
+  xy: 709, 89
+  size: 46, 37
+  orig: 46, 37
+  offset: 0, 0
+  index: -1
+images/tui
+  rotate: false
+  xy: 880, 111
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+images/tui2
+  rotate: false
+  xy: 14, 4
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+images/weiba
+  rotate: false
+  xy: 709, 36
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+images/wuqi
+  rotate: false
+  xy: 2, 17
+  size: 27, 8
+  orig: 27, 8
+  offset: 0, 0
+  index: -1
+images/xiaoshou
+  rotate: false
+  xy: 730, 38
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+images/xiaoshou2
+  rotate: true
+  xy: 2, 2
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1

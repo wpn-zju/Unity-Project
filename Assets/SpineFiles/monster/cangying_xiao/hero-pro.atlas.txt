@@ -1,0 +1,69 @@
+
+hero-pro.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_01
+  rotate: false
+  xy: 2, 2
+  size: 61, 49
+  orig: 61, 49
+  offset: 0, 0
+  index: -1
+attack_02
+  rotate: false
+  xy: 65, 2
+  size: 61, 49
+  orig: 61, 49
+  offset: 0, 0
+  index: -1
+attack_03
+  rotate: false
+  xy: 128, 2
+  size: 61, 49
+  orig: 61, 49
+  offset: 0, 0
+  index: -1
+attack_04
+  rotate: false
+  xy: 191, 2
+  size: 61, 49
+  orig: 61, 49
+  offset: 0, 0
+  index: -1
+fly_01
+  rotate: false
+  xy: 302, 2
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+fly_02
+  rotate: false
+  xy: 350, 2
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+fly_03
+  rotate: false
+  xy: 398, 2
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+hurt_01
+  rotate: false
+  xy: 446, 2
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+hurt_02
+  rotate: false
+  xy: 254, 2
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1

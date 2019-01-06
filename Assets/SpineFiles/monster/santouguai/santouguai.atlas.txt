@@ -1,0 +1,160 @@
+
+santouguai.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_eye
+  rotate: false
+  xy: 534, 102
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
+01_eye 06
+  rotate: false
+  xy: 764, 102
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
+01_eye02
+  rotate: false
+  xy: 580, 102
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
+01_eye03
+  rotate: false
+  xy: 626, 102
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
+01_eye04
+  rotate: false
+  xy: 672, 102
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
+01_eye05
+  rotate: false
+  xy: 718, 102
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
+01_head
+  rotate: false
+  xy: 266, 49
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+01_jiao
+  rotate: true
+  xy: 348, 49
+  size: 20, 33
+  orig: 20, 33
+  offset: 0, 0
+  index: -1
+01_xiaba
+  rotate: false
+  xy: 348, 71
+  size: 78, 55
+  orig: 78, 55
+  offset: 0, 0
+  index: -1
+02_eye
+  rotate: false
+  xy: 481, 78
+  size: 27, 10
+  orig: 27, 10
+  offset: 0, 0
+  index: -1
+02_eye 03
+  rotate: false
+  xy: 810, 116
+  size: 27, 10
+  orig: 27, 10
+  offset: 0, 0
+  index: -1
+02_eye 04
+  rotate: false
+  xy: 383, 59
+  size: 27, 10
+  orig: 27, 10
+  offset: 0, 0
+  index: -1
+02_eye 05
+  rotate: true
+  xy: 366, 20
+  size: 27, 10
+  orig: 27, 10
+  offset: 0, 0
+  index: -1
+02_eye02
+  rotate: false
+  xy: 534, 90
+  size: 27, 10
+  orig: 27, 10
+  offset: 0, 0
+  index: -1
+02_head
+  rotate: false
+  xy: 428, 78
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+02_jiao
+  rotate: false
+  xy: 346, 16
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1
+02_xiaba
+  rotate: false
+  xy: 481, 90
+  size: 51, 36
+  orig: 51, 36
+  offset: 0, 0
+  index: -1
+03_head
+  rotate: true
+  xy: 266, 2
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: -1
+03_jiao
+  rotate: true
+  xy: 366, 2
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+03_xiaba
+  rotate: false
+  xy: 295, 9
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+dead
+  rotate: true
+  xy: 2, 9
+  size: 117, 130
+  orig: 117, 130
+  offset: 0, 0
+  index: -1
+hurt
+  rotate: true
+  xy: 134, 9
+  size: 117, 130
+  orig: 117, 130
+  offset: 0, 0
+  index: -1

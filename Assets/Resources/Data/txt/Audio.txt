@@ -1,0 +1,5 @@
+ID	Name	Path	Loop	Volume	Pitch	Priority	Note
+101	HomeBGM	Audio/music/HomeBGM	1	0.5	1	0	null
+102	StartBGM	Audio/music/StartBGM	1	0.5	1.2	0	null
+103	BATTLE	Audio/music/BATTLE	1	0.5	1	0	null
+104	BOSS	Audio/music/BOSS	1	0.5	1	0	null

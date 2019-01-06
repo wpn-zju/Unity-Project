@@ -1,0 +1,23 @@
+{
+"skeleton": { "hash": "FfdYiV6sAF9e8UVQoIe8GNQH8vo", "spine": "3.6.53", "width": 55, "height": 50, "images": "" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "tou_idle01", "bone": "root", "attachment": "tou_run04" }
+],
+"skins": {
+	"default": {
+		"tou_idle01": {
+			"tou_idle01": { "width": 55, "height": 50 },
+			"tou_run01": { "width": 55, "height": 50 },
+			"tou_run02": { "width": 55, "height": 50 },
+			"tou_run03": { "width": 55, "height": 50 },
+			"tou_run04": { "width": 55, "height": 50 }
+		}
+	}
+},
+"animations": {
+	"animation": {}
+}
+}

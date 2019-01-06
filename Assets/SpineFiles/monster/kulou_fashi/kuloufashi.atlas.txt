@@ -1,0 +1,139 @@
+
+kuloufashi.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D_01
+  rotate: false
+  xy: 2, 25
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+D_02
+  rotate: false
+  xy: 103, 25
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+D_03
+  rotate: false
+  xy: 204, 25
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+D_04
+  rotate: false
+  xy: 305, 25
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+D_05
+  rotate: false
+  xy: 406, 25
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+D_06
+  rotate: false
+  xy: 507, 25
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+D_07
+  rotate: false
+  xy: 608, 25
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+fazhang
+  rotate: true
+  xy: 2, 14
+  size: 9, 36
+  orig: 9, 36
+  offset: 0, 0
+  index: -1
+hurt
+  rotate: false
+  xy: 709, 83
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: false
+  xy: 764, 119
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 764, 119
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+shenti2
+  rotate: false
+  xy: 747, 107
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 709, 33
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 2, 2
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+shoubi
+  rotate: false
+  xy: 40, 16
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+shoubi2
+  rotate: false
+  xy: 747, 98
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 709, 45
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+tui
+  rotate: false
+  xy: 709, 25
+  size: 3, 6
+  orig: 3, 6
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: false
+  xy: 717, 37
+  size: 3, 6
+  orig: 3, 6
+  offset: 0, 0
+  index: -1

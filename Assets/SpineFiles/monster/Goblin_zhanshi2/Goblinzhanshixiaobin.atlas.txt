@@ -1,0 +1,160 @@
+
+Goblinzhanshixiaobin.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bianzi_01
+  rotate: false
+  xy: 449, 48
+  size: 34, 14
+  orig: 34, 14
+  offset: 0, 0
+  index: -1
+bianzi_02
+  rotate: false
+  xy: 38, 12
+  size: 34, 14
+  orig: 34, 14
+  offset: 0, 0
+  index: -1
+bianzi_03
+  rotate: false
+  xy: 2, 12
+  size: 34, 14
+  orig: 34, 14
+  offset: 0, 0
+  index: -1
+datui01
+  rotate: false
+  xy: 34, 2
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+datui02
+  rotate: false
+  xy: 34, 2
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+hurt
+  rotate: false
+  xy: 343, 13
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+jianbang
+  rotate: false
+  xy: 75, 29
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+jiao01
+  rotate: false
+  xy: 395, 13
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+jiao02
+  rotate: false
+  xy: 395, 13
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 449, 24
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+shou01
+  rotate: true
+  xy: 2, 2
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+shou02
+  rotate: true
+  xy: 18, 2
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+shoubi01
+  rotate: false
+  xy: 343, 2
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+shoubi02
+  rotate: false
+  xy: 354, 2
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+texiao
+  rotate: false
+  xy: 2, 41
+  size: 115, 21
+  orig: 115, 21
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 395, 22
+  size: 52, 40
+  orig: 52, 40
+  offset: 0, 0
+  index: -1
+tou_01
+  rotate: false
+  xy: 119, 8
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+tou_02
+  rotate: false
+  xy: 175, 8
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+tou_03
+  rotate: false
+  xy: 231, 8
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+tou_04
+  rotate: false
+  xy: 287, 8
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+tou_zui
+  rotate: false
+  xy: 485, 50
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: false
+  xy: 2, 28
+  size: 71, 11
+  orig: 71, 11
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+Goblinzhanshi.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+datui01
+  rotate: false
+  xy: 34, 2
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+datui02
+  rotate: false
+  xy: 34, 2
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+hurt
+  rotate: false
+  xy: 2, 12
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+jianbang
+  rotate: false
+  xy: 125, 41
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+jiao01
+  rotate: false
+  xy: 125, 32
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+jiao02
+  rotate: false
+  xy: 125, 32
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 108, 29
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+shou01
+  rotate: true
+  xy: 2, 2
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+shou02
+  rotate: true
+  xy: 18, 2
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+shoubi01
+  rotate: false
+  xy: 182, 53
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+shoubi02
+  rotate: false
+  xy: 108, 18
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 55, 15
+  size: 51, 47
+  orig: 51, 47
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: false
+  xy: 108, 53
+  size: 72, 9
+  orig: 72, 9
+  offset: 0, 0
+  index: -1

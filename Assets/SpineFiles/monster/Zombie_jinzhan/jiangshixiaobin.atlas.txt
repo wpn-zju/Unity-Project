@@ -1,0 +1,118 @@
+
+jiangshixiaobin.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 39, 23
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 2, 16
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 2, 63
+  size: 40, 63
+  orig: 40, 63
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 44, 86
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+05
+  rotate: true
+  xy: 85, 35
+  size: 47, 20
+  orig: 47, 20
+  offset: 0, 0
+  index: -1
+dashoubi01
+  rotate: false
+  xy: 120, 115
+  size: 6, 11
+  orig: 6, 11
+  offset: 0, 0
+  index: -1
+dashoubi02
+  rotate: false
+  xy: 120, 102
+  size: 6, 11
+  orig: 6, 11
+  offset: 0, 0
+  index: -1
+datui01
+  rotate: false
+  xy: 120, 93
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+datui02
+  rotate: false
+  xy: 120, 93
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+hurt
+  rotate: false
+  xy: 85, 84
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+jiao01
+  rotate: false
+  xy: 120, 85
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+jiao02
+  rotate: false
+  xy: 120, 85
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 107, 68
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+shoubi01
+  rotate: false
+  xy: 2, 2
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+shoubi02
+  rotate: false
+  xy: 11, 2
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 44, 52
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1

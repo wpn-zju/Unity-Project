@@ -1,0 +1,209 @@
+
+laoshufashi.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/D_01
+  rotate: false
+  xy: 2, 155
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_02
+  rotate: false
+  xy: 2, 54
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_03
+  rotate: false
+  xy: 103, 155
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_04
+  rotate: false
+  xy: 103, 54
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_05
+  rotate: false
+  xy: 204, 155
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_06
+  rotate: false
+  xy: 204, 54
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_07
+  rotate: false
+  xy: 305, 155
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/guang1
+  rotate: false
+  xy: 305, 66
+  size: 96, 87
+  orig: 96, 87
+  offset: 0, 0
+  index: -1
+images/guang2
+  rotate: false
+  xy: 406, 167
+  size: 96, 87
+  orig: 96, 87
+  offset: 0, 0
+  index: -1
+images/guang3
+  rotate: false
+  xy: 504, 167
+  size: 96, 87
+  orig: 96, 87
+  offset: 0, 0
+  index: -1
+images/guang4
+  rotate: false
+  xy: 602, 172
+  size: 89, 82
+  orig: 89, 82
+  offset: 0, 0
+  index: -1
+images/hurt
+  rotate: false
+  xy: 693, 196
+  size: 72, 58
+  orig: 72, 58
+  offset: 0, 0
+  index: -1
+images/jiao
+  rotate: true
+  xy: 406, 155
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+images/jiao2
+  rotate: false
+  xy: 403, 138
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+images/shenti
+  rotate: false
+  xy: 841, 203
+  size: 32, 51
+  orig: 32, 51
+  offset: 0, 0
+  index: -1
+images/shou
+  rotate: false
+  xy: 875, 241
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+images/shou2
+  rotate: false
+  xy: 51, 10
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+images/shoubi
+  rotate: false
+  xy: 31, 2
+  size: 8, 21
+  orig: 8, 21
+  offset: 0, 0
+  index: -1
+images/shoubi2
+  rotate: false
+  xy: 41, 2
+  size: 8, 21
+  orig: 8, 21
+  offset: 0, 0
+  index: -1
+images/tou
+  rotate: false
+  xy: 767, 201
+  size: 72, 53
+  orig: 72, 53
+  offset: 0, 0
+  index: -1
+images/tui
+  rotate: false
+  xy: 2, 2
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+images/tui2
+  rotate: false
+  xy: 693, 176
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+images/weiba
+  rotate: false
+  xy: 94, 40
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+images/weiba2
+  rotate: false
+  xy: 51, 2
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+images/weiba3
+  rotate: false
+  xy: 602, 167
+  size: 7, 3
+  orig: 7, 3
+  offset: 0, 0
+  index: -1
+images/weiba4
+  rotate: true
+  xy: 60, 2
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+images/wuqi
+  rotate: true
+  xy: 2, 25
+  size: 27, 90
+  orig: 27, 90
+  offset: 0, 0
+  index: -1
+images/xiaoshou
+  rotate: false
+  xy: 19, 2
+  size: 10, 21
+  orig: 10, 21
+  offset: 0, 0
+  index: -1
+images/xiaoshou2
+  rotate: true
+  xy: 305, 54
+  size: 10, 20
+  orig: 10, 20
+  offset: 0, 0
+  index: -1

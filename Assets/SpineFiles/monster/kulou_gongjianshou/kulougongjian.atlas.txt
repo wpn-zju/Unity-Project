@@ -1,0 +1,188 @@
+
+kulougongjian.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D_01
+  rotate: false
+  xy: 2, 24
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+D_02
+  rotate: false
+  xy: 103, 24
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+D_03
+  rotate: false
+  xy: 204, 24
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+D_04
+  rotate: false
+  xy: 305, 24
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+D_05
+  rotate: false
+  xy: 406, 24
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+D_06
+  rotate: false
+  xy: 507, 24
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+D_07
+  rotate: false
+  xy: 608, 24
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+bone01
+  rotate: false
+  xy: 94, 12
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+bone02
+  rotate: false
+  xy: 771, 94
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+bone03
+  rotate: false
+  xy: 744, 75
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+gongjian
+  rotate: false
+  xy: 2, 2
+  size: 44, 20
+  orig: 44, 20
+  offset: 0, 0
+  index: -1
+gongjian 2
+  rotate: false
+  xy: 745, 103
+  size: 44, 20
+  orig: 44, 20
+  offset: 0, 0
+  index: -1
+gongjian 3
+  rotate: false
+  xy: 48, 2
+  size: 44, 20
+  orig: 44, 20
+  offset: 0, 0
+  index: -1
+hurt
+  rotate: false
+  xy: 709, 83
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+jian
+  rotate: true
+  xy: 709, 35
+  size: 9, 28
+  orig: 9, 28
+  offset: 0, 0
+  index: -1
+jiantong
+  rotate: true
+  xy: 745, 91
+  size: 10, 24
+  orig: 10, 24
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: false
+  xy: 811, 118
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 94, 5
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 791, 108
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+shou
+  rotate: true
+  xy: 709, 27
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 745, 83
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+shoubi
+  rotate: false
+  xy: 739, 37
+  size: 3, 7
+  orig: 3, 7
+  offset: 0, 0
+  index: -1
+shoubi2
+  rotate: true
+  xy: 791, 103
+  size: 3, 7
+  orig: 3, 7
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 709, 46
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+tui
+  rotate: false
+  xy: 103, 16
+  size: 3, 6
+  orig: 3, 6
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: false
+  xy: 721, 27
+  size: 3, 6
+  orig: 3, 6
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,265 @@
+
+stonemanjingying.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+datui01
+  rotate: false
+  xy: 142, 2
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+datui02
+  rotate: false
+  xy: 159, 2
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 274, 178
+  size: 91, 76
+  orig: 91, 76
+  offset: 0, 0
+  index: -1
+head_B07
+  rotate: false
+  xy: 274, 178
+  size: 91, 76
+  orig: 91, 76
+  offset: 0, 0
+  index: -1
+head_A005
+  rotate: false
+  xy: 367, 178
+  size: 91, 76
+  orig: 91, 76
+  offset: 0, 0
+  index: -1
+head_A01
+  rotate: false
+  xy: 181, 176
+  size: 91, 78
+  orig: 91, 78
+  offset: 0, 0
+  index: -1
+head_A015
+  rotate: false
+  xy: 279, 100
+  size: 85, 76
+  orig: 85, 76
+  offset: 0, 0
+  index: -1
+head_A02
+  rotate: false
+  xy: 188, 96
+  size: 89, 78
+  orig: 89, 78
+  offset: 0, 0
+  index: -1
+head_B01
+  rotate: false
+  xy: 460, 178
+  size: 91, 76
+  orig: 91, 76
+  offset: 0, 0
+  index: -1
+head_B02
+  rotate: false
+  xy: 553, 178
+  size: 91, 76
+  orig: 91, 76
+  offset: 0, 0
+  index: -1
+head_B03
+  rotate: false
+  xy: 646, 178
+  size: 91, 76
+  orig: 91, 76
+  offset: 0, 0
+  index: -1
+head_B04
+  rotate: false
+  xy: 739, 178
+  size: 91, 76
+  orig: 91, 76
+  offset: 0, 0
+  index: -1
+head_B05
+  rotate: false
+  xy: 832, 178
+  size: 91, 76
+  orig: 91, 76
+  offset: 0, 0
+  index: -1
+head_B06
+  rotate: false
+  xy: 925, 178
+  size: 91, 76
+  orig: 91, 76
+  offset: 0, 0
+  index: -1
+hurt
+  rotate: false
+  xy: 86, 166
+  size: 93, 88
+  orig: 93, 88
+  offset: 0, 0
+  index: -1
+jianbang01
+  rotate: false
+  xy: 2, 2
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+jianbang02
+  rotate: false
+  xy: 46, 2
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+jiao01
+  rotate: false
+  xy: 142, 21
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+jiao02
+  rotate: false
+  xy: 142, 21
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 87, 10
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+shou01
+  rotate: false
+  xy: 643, 125
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+shou01_1
+  rotate: false
+  xy: 693, 127
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+shou01_2
+  rotate: false
+  xy: 741, 127
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+shou01_3
+  rotate: false
+  xy: 789, 127
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+shou02
+  rotate: false
+  xy: 837, 130
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1
+shou02_1
+  rotate: false
+  xy: 882, 132
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+shou02_2
+  rotate: false
+  xy: 925, 132
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+shou02_3
+  rotate: false
+  xy: 968, 132
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+shoubi01
+  rotate: true
+  xy: 366, 105
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+shoubi02
+  rotate: false
+  xy: 124, 12
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+zadi_01
+  rotate: false
+  xy: 2, 149
+  size: 82, 105
+  orig: 82, 105
+  offset: 0, 0
+  index: -1
+zadi_02
+  rotate: false
+  xy: 86, 109
+  size: 100, 55
+  orig: 100, 55
+  offset: 0, 0
+  index: -1
+zadi_03
+  rotate: false
+  xy: 366, 123
+  size: 100, 53
+  orig: 100, 53
+  offset: 0, 0
+  index: -1
+zadi_a
+  rotate: false
+  xy: 557, 121
+  size: 84, 55
+  orig: 84, 55
+  offset: 0, 0
+  index: -1
+zadi_b
+  rotate: false
+  xy: 468, 116
+  size: 87, 60
+  orig: 87, 60
+  offset: 0, 0
+  index: -1
+zadi_c
+  rotate: false
+  xy: 76, 40
+  size: 94, 67
+  orig: 94, 67
+  offset: 0, 0
+  index: -1
+zadi_d
+  rotate: true
+  xy: 2, 44
+  size: 103, 72
+  orig: 103, 72
+  offset: 0, 0
+  index: -1

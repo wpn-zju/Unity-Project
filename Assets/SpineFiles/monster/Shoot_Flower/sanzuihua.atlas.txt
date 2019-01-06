@@ -1,0 +1,258 @@
+
+sanzuihua.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/D_01
+  rotate: false
+  xy: 2, 150
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_02
+  rotate: false
+  xy: 2, 49
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_03
+  rotate: false
+  xy: 103, 150
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_04
+  rotate: false
+  xy: 103, 49
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_05
+  rotate: false
+  xy: 204, 150
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_06
+  rotate: false
+  xy: 204, 49
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_07
+  rotate: false
+  xy: 305, 150
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/bubble_01
+  rotate: true
+  xy: 940, 217
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+images/bubble_02
+  rotate: true
+  xy: 982, 217
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+images/bubble_03
+  rotate: true
+  xy: 96, 15
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+images/bubble_04
+  rotate: true
+  xy: 138, 15
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+images/bubble_05
+  rotate: true
+  xy: 180, 15
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+images/bubble_06
+  rotate: true
+  xy: 222, 15
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+images/bubble_07
+  rotate: true
+  xy: 264, 15
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+images/bubble_08
+  rotate: true
+  xy: 837, 183
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+images/bubble_09
+  rotate: true
+  xy: 406, 139
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+images/bubble_10
+  rotate: true
+  xy: 448, 139
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+images/bubble_11
+  rotate: false
+  xy: 306, 22
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+images/bubble_12
+  rotate: false
+  xy: 340, 22
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+images/hair
+  rotate: false
+  xy: 837, 217
+  size: 54, 32
+  orig: 54, 32
+  offset: 0, 0
+  index: -1
+images/hair02
+  rotate: false
+  xy: 893, 213
+  size: 45, 36
+  orig: 45, 36
+  offset: 0, 0
+  index: -1
+images/hurt
+  rotate: false
+  xy: 305, 64
+  size: 81, 84
+  orig: 81, 84
+  offset: 0, 0
+  index: -1
+images/leaf
+  rotate: false
+  xy: 2, 19
+  size: 92, 28
+  orig: 92, 28
+  offset: 0, 0
+  index: -1
+images/shent0i25
+  rotate: false
+  xy: 664, 185
+  size: 85, 64
+  orig: 85, 64
+  offset: 0, 0
+  index: -1
+images/shenti01
+  rotate: false
+  xy: 406, 173
+  size: 84, 76
+  orig: 84, 76
+  offset: 0, 0
+  index: -1
+images/shenti02
+  rotate: false
+  xy: 751, 190
+  size: 84, 59
+  orig: 84, 59
+  offset: 0, 0
+  index: -1
+images/shenti03
+  rotate: false
+  xy: 577, 179
+  size: 85, 70
+  orig: 85, 70
+  offset: 0, 0
+  index: -1
+images/shenti035
+  rotate: false
+  xy: 492, 175
+  size: 83, 74
+  orig: 83, 74
+  offset: 0, 0
+  index: -1
+images/zuibaA_01
+  rotate: false
+  xy: 388, 75
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+images/zuibaA_02
+  rotate: false
+  xy: 388, 104
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+images/zuibaL_01
+  rotate: false
+  xy: 879, 184
+  size: 12, 31
+  orig: 12, 31
+  offset: 0, 0
+  index: -1
+images/zuibaL_02
+  rotate: true
+  xy: 2, 2
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: -1
+images/zuibaL_03
+  rotate: false
+  xy: 423, 110
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+images/zuibaR_01
+  rotate: false
+  xy: 374, 31
+  size: 12, 31
+  orig: 12, 31
+  offset: 0, 0
+  index: -1
+images/zuibaR_02
+  rotate: true
+  xy: 893, 196
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: -1
+images/zuibaR_03
+  rotate: false
+  xy: 442, 110
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,139 @@
+{
+"skeleton": { "hash": "64VqaoYA4CvzKGnkSxDfaNVEkkE", "spine": "3.6.53", "width": 171, "height": 123, "images": "./muxiang_spine/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "center", "parent": "root" },
+	{ "name": "death", "parent": "root", "x": 6 },
+	{ "name": "death02", "parent": "root", "x": 2.42 },
+	{ "name": "shoujidian", "parent": "root" },
+	{ "name": "xuetiao", "parent": "root", "y": 29.68 }
+],
+"slots": [
+	{ "name": "muxiang01", "bone": "root", "attachment": "muxiang01" },
+	{ "name": "xiangzi/xiangzi0001", "bone": "death", "attachment": "xiangzi/xiangzi0028" },
+	{ "name": "yanwu/yanwu1", "bone": "death02", "attachment": "yanwu02/烟雾01" }
+],
+"skins": {
+	"default": {
+		"muxiang01": {
+			"muxiang01": { "width": 43, "height": 53 }
+		},
+		"xiangzi/xiangzi0001": {
+			"xiangzi/xiangzi0001": { "width": 171, "height": 123 },
+			"xiangzi/xiangzi0002": { "width": 171, "height": 123 },
+			"xiangzi/xiangzi0003": { "width": 171, "height": 123 },
+			"xiangzi/xiangzi0004": { "width": 171, "height": 123 },
+			"xiangzi/xiangzi0005": { "width": 171, "height": 123 },
+			"xiangzi/xiangzi0006": { "width": 171, "height": 123 },
+			"xiangzi/xiangzi0007": { "width": 171, "height": 123 },
+			"xiangzi/xiangzi0008": { "width": 171, "height": 123 },
+			"xiangzi/xiangzi0009": { "width": 171, "height": 123 },
+			"xiangzi/xiangzi0010": { "width": 171, "height": 123 },
+			"xiangzi/xiangzi0011": { "width": 171, "height": 123 },
+			"xiangzi/xiangzi0012": { "width": 171, "height": 123 },
+			"xiangzi/xiangzi0013": { "width": 171, "height": 123 },
+			"xiangzi/xiangzi0014": { "width": 171, "height": 123 },
+			"xiangzi/xiangzi0015": { "width": 171, "height": 123 },
+			"xiangzi/xiangzi0016": { "width": 171, "height": 123 },
+			"xiangzi/xiangzi0017": { "width": 171, "height": 123 },
+			"xiangzi/xiangzi0018": { "width": 171, "height": 123 },
+			"xiangzi/xiangzi0019": { "width": 171, "height": 123 },
+			"xiangzi/xiangzi0020": { "width": 171, "height": 123 },
+			"xiangzi/xiangzi0021": { "width": 171, "height": 123 },
+			"xiangzi/xiangzi0022": { "width": 171, "height": 123 },
+			"xiangzi/xiangzi0023": { "width": 171, "height": 123 },
+			"xiangzi/xiangzi0024": { "width": 171, "height": 123 },
+			"xiangzi/xiangzi0025": { "width": 171, "height": 123 },
+			"xiangzi/xiangzi0026": { "width": 171, "height": 123 },
+			"xiangzi/xiangzi0027": { "width": 171, "height": 123 },
+			"xiangzi/xiangzi0028": { "width": 171, "height": 123 }
+		},
+		"yanwu/yanwu1": {
+			"yanwu02/烟雾01": { "x": -6.45, "width": 113, "height": 113 },
+			"yanwu02/烟雾02": { "width": 113, "height": 113 },
+			"yanwu02/烟雾03": { "width": 113, "height": 113 },
+			"yanwu02/烟雾04": { "width": 113, "height": 113 },
+			"yanwu02/烟雾05": { "width": 113, "height": 113 },
+			"yanwu02/烟雾06": { "width": 113, "height": 113 },
+			"yanwu02/烟雾07": { "width": 113, "height": 113 },
+			"yanwu02/烟雾08": { "width": 113, "height": 113 }
+		}
+	}
+},
+"animations": {
+	"death": {
+		"slots": {
+			"muxiang01": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"xiangzi/xiangzi0001": {
+				"attachment": [
+					{ "time": 0, "name": "xiangzi/xiangzi0001" },
+					{ "time": 0.0333, "name": "xiangzi/xiangzi0002" },
+					{ "time": 0.0667, "name": "xiangzi/xiangzi0003" },
+					{ "time": 0.1, "name": "xiangzi/xiangzi0004" },
+					{ "time": 0.1333, "name": "xiangzi/xiangzi0005" },
+					{ "time": 0.1667, "name": "xiangzi/xiangzi0006" },
+					{ "time": 0.2, "name": "xiangzi/xiangzi0007" },
+					{ "time": 0.2333, "name": "xiangzi/xiangzi0008" },
+					{ "time": 0.2667, "name": "xiangzi/xiangzi0009" },
+					{ "time": 0.3, "name": "xiangzi/xiangzi0010" },
+					{ "time": 0.3333, "name": "xiangzi/xiangzi0011" },
+					{ "time": 0.3667, "name": "xiangzi/xiangzi0012" },
+					{ "time": 0.4, "name": "xiangzi/xiangzi0013" },
+					{ "time": 0.4333, "name": "xiangzi/xiangzi0014" },
+					{ "time": 0.4667, "name": "xiangzi/xiangzi0015" },
+					{ "time": 0.5, "name": "xiangzi/xiangzi0016" },
+					{ "time": 0.5333, "name": "xiangzi/xiangzi0017" },
+					{ "time": 0.5667, "name": "xiangzi/xiangzi0018" },
+					{ "time": 0.6, "name": "xiangzi/xiangzi0019" },
+					{ "time": 0.6333, "name": "xiangzi/xiangzi0020" },
+					{ "time": 0.6667, "name": "xiangzi/xiangzi0021" },
+					{ "time": 0.7, "name": "xiangzi/xiangzi0022" },
+					{ "time": 0.7333, "name": "xiangzi/xiangzi0023" },
+					{ "time": 0.7667, "name": "xiangzi/xiangzi0024" },
+					{ "time": 0.8, "name": "xiangzi/xiangzi0025" },
+					{ "time": 0.8333, "name": "xiangzi/xiangzi0026" },
+					{ "time": 0.8667, "name": "xiangzi/xiangzi0027" },
+					{ "time": 0.9, "name": "xiangzi/xiangzi0028" }
+				]
+			},
+			"yanwu/yanwu1": {
+				"attachment": [
+					{ "time": 0.0333, "name": "yanwu02/烟雾02" },
+					{ "time": 0.0667, "name": "yanwu02/烟雾03" },
+					{ "time": 0.1, "name": "yanwu02/烟雾04" },
+					{ "time": 0.1333, "name": "yanwu02/烟雾05" },
+					{ "time": 0.1667, "name": "yanwu02/烟雾06" },
+					{ "time": 0.2, "name": "yanwu02/烟雾07" },
+					{ "time": 0.2333, "name": "yanwu02/烟雾08" },
+					{ "time": 0.2667, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"death02": {
+				"translate": [
+					{ "time": 0, "x": -5.39, "y": 0 }
+				]
+			}
+		}
+	},
+	"idle": {
+		"slots": {
+			"xiangzi/xiangzi0001": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"yanwu/yanwu1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		}
+	}
+}
+}

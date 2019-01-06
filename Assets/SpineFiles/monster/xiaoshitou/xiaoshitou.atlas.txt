@@ -1,0 +1,90 @@
+
+xiaoshitou.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+datui01
+  rotate: false
+  xy: 64, 11
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+datui02
+  rotate: false
+  xy: 64, 11
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+feibiao
+  rotate: false
+  xy: 43, 6
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+hurt
+  rotate: false
+  xy: 2, 13
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+jiao01
+  rotate: true
+  xy: 121, 55
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+jiao02
+  rotate: true
+  xy: 121, 55
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 43, 20
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+shenti02
+  rotate: false
+  xy: 82, 25
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+shou01
+  rotate: true
+  xy: 2, 2
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+shou02
+  rotate: true
+  xy: 16, 2
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+shoubi02
+  rotate: false
+  xy: 30, 2
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+shoubi01
+  rotate: false
+  xy: 30, 2
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1

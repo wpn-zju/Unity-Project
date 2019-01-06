@@ -1,0 +1,11 @@
+﻿ID	Name	CN Name	Resource Path	Hp	Mp	Atk	Def	Spd	pHp	pMp	pAtk	pDef	pSpd	Lucky	Crit	C.Dmg	Armor Pntr	Mp Cost-	Reflect	Lifesteal
+10001	Hero	主角	MyResource/Monster/Player&Summon/ZhanShiBattle	1000	1000	100	100	5	0	0	0	0	0	0	10	150	0	0	0	0
+10002	Hero	主角	MyResource/Monster/Player&Summon/ZhanShiBattle	1100	1000	110	110	5	0	0	0	0	0	0	10	150	0	0	0	0
+10003	Hero	主角	MyResource/Monster/Player&Summon/ZhanShiBattle	1210	1000	121	121	5	0	0	0	0	0	0	10	150	0	0	0	0
+10004	Hero	主角	MyResource/Monster/Player&Summon/ZhanShiBattle	1330	1000	133	133	5	0	0	0	0	0	0	10	150	0	0	0	0
+10005	Hero	主角	MyResource/Monster/Player&Summon/ZhanShiBattle	1460	1000	146	146	5	0	0	0	0	0	0	10	150	0	0	0	0
+10006	Hero	主角	MyResource/Monster/Player&Summon/ZhanShiBattle	1610	1000	161	161	5	0	0	0	0	0	0	10	150	0	0	0	0
+10007	Hero	主角	MyResource/Monster/Player&Summon/ZhanShiBattle	1770	1000	177	177	5	0	0	0	0	0	0	10	150	0	0	0	0
+10008	Hero	主角	MyResource/Monster/Player&Summon/ZhanShiBattle	1950	1000	195	195	5	0	0	0	0	0	0	10	150	0	0	0	0
+10009	Hero	主角	MyResource/Monster/Player&Summon/ZhanShiBattle	2140	1000	214	214	5	0	0	0	0	0	0	10	150	0	0	0	0
+10010	Hero	主角	MyResource/Monster/Player&Summon/ZhanShiBattle	2360	1000	236	236	5	0	0	0	0	0	0	10	150	0	0	0	0

@@ -1,0 +1,146 @@
+
+Goblinjingying.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daoguang/daoguang_normal_01
+  rotate: false
+  xy: 2, 166
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+daoguang/daoguang_normal_02
+  rotate: false
+  xy: 154, 338
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+daoguang/daoguang_normal_03
+  rotate: false
+  xy: 154, 166
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+daoguang/daoguang_normal_04
+  rotate: true
+  xy: 2, 14
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+daoguang/daoguang_normal_05
+  rotate: false
+  xy: 306, 338
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+daoguang/daoguang_normal_06
+  rotate: false
+  xy: 306, 166
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+daoguang/daoguang_normal_07
+  rotate: false
+  xy: 2, 338
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+images/datui01
+  rotate: false
+  xy: 304, 120
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+images/datui02
+  rotate: false
+  xy: 304, 120
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+images/hurt
+  rotate: false
+  xy: 174, 96
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+images/jiao01
+  rotate: false
+  xy: 326, 155
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+images/jiao02
+  rotate: false
+  xy: 24, 3
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+images/shenti
+  rotate: false
+  xy: 304, 132
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+images/shou01
+  rotate: true
+  xy: 2, 2
+  size: 10, 20
+  orig: 10, 20
+  offset: 0, 0
+  index: -1
+images/shou02
+  rotate: true
+  xy: 174, 20
+  size: 10, 20
+  orig: 10, 20
+  offset: 0, 0
+  index: -1
+images/shoubi01
+  rotate: false
+  xy: 458, 428
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+images/shoubi02
+  rotate: false
+  xy: 483, 494
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+images/tou
+  rotate: false
+  xy: 174, 32
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+images/tou_02
+  rotate: false
+  xy: 242, 101
+  size: 60, 63
+  orig: 60, 63
+  offset: 0, 0
+  index: -1
+images/wuqi
+  rotate: false
+  xy: 458, 446
+  size: 23, 62
+  orig: 23, 62
+  offset: 0, 0
+  index: -1

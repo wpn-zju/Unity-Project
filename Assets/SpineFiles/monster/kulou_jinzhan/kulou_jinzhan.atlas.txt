@@ -1,0 +1,223 @@
+
+kulou_jinzhan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daoguang/daoguang_normal_01
+  rotate: false
+  xy: 2, 168
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+daoguang/daoguang_normal_02
+  rotate: false
+  xy: 154, 340
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+daoguang/daoguang_normal_03
+  rotate: false
+  xy: 154, 168
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+daoguang/daoguang_normal_04
+  rotate: true
+  xy: 2, 16
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+daoguang/daoguang_normal_05
+  rotate: false
+  xy: 306, 340
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+daoguang/daoguang_normal_06
+  rotate: false
+  xy: 306, 168
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+daoguang/daoguang_normal_07
+  rotate: false
+  xy: 2, 340
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 2, 2
+  size: 94, 12
+  orig: 94, 12
+  offset: 0, 0
+  index: -1
+kuloubin01_dabi
+  rotate: false
+  xy: 492, 200
+  size: 3, 7
+  orig: 3, 7
+  offset: 0, 0
+  index: -1
+kuloubin01_datui
+  rotate: false
+  xy: 559, 284
+  size: 3, 6
+  orig: 3, 6
+  offset: 0, 0
+  index: -1
+kuloubin01_shenti
+  rotate: false
+  xy: 376, 92
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+kuloubin01_tou
+  rotate: false
+  xy: 660, 474
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+kuloubin01_tou_hurt
+  rotate: false
+  xy: 174, 23
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+kuloubin01_xiaobi02
+  rotate: false
+  xy: 216, 55
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+kuloubin01_xiaotui
+  rotate: false
+  xy: 588, 303
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+shou_shang_01
+  rotate: true
+  xy: 174, 16
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+shou_xia_03
+  rotate: false
+  xy: 660, 464
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+zhanshi_dun_01
+  rotate: false
+  xy: 432, 149
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+zhanshi_jian_01
+  rotate: false
+  xy: 458, 194
+  size: 32, 13
+  orig: 32, 13
+  offset: 0, 0
+  index: -1
+zhanshi_shenti_01
+  rotate: false
+  xy: 559, 292
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+攻击力+
+  rotate: false
+  xy: 376, 112
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+死亡序列帧/D_01
+  rotate: false
+  xy: 174, 67
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+死亡序列帧/D_02
+  rotate: false
+  xy: 458, 411
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+死亡序列帧/D_03
+  rotate: false
+  xy: 275, 67
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+死亡序列帧/D_04
+  rotate: false
+  xy: 458, 310
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+死亡序列帧/D_05
+  rotate: false
+  xy: 559, 411
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+死亡序列帧/D_06
+  rotate: false
+  xy: 458, 209
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+死亡序列帧/D_07
+  rotate: false
+  xy: 559, 310
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+死亡序列帧/bone01
+  rotate: false
+  xy: 98, 4
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+死亡序列帧/bone02
+  rotate: false
+  xy: 695, 503
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+死亡序列帧/bone03
+  rotate: false
+  xy: 458, 186
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1

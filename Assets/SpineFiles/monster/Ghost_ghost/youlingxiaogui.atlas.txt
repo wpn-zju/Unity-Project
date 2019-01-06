@@ -1,0 +1,272 @@
+
+youlingxiaogui.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+death/dead1
+  rotate: true
+  xy: 2, 23
+  size: 103, 146
+  orig: 103, 146
+  offset: 0, 0
+  index: -1
+death/dead2
+  rotate: true
+  xy: 150, 37
+  size: 89, 150
+  orig: 89, 150
+  offset: 0, 0
+  index: -1
+death/dead3
+  rotate: true
+  xy: 302, 31
+  size: 95, 129
+  orig: 95, 129
+  offset: 0, 0
+  index: -1
+death/dead4
+  rotate: true
+  xy: 433, 51
+  size: 75, 109
+  orig: 75, 109
+  offset: 0, 0
+  index: -1
+death/dead5
+  rotate: true
+  xy: 544, 53
+  size: 73, 102
+  orig: 73, 102
+  offset: 0, 0
+  index: -1
+images/Dhead1
+  rotate: false
+  xy: 748, 83
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+images/Dhead2
+  rotate: false
+  xy: 784, 83
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+images/Dhead3
+  rotate: false
+  xy: 820, 83
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+images/Dhead4
+  rotate: false
+  xy: 856, 83
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+images/Dhead5
+  rotate: false
+  xy: 892, 83
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+images/Dshenti1
+  rotate: false
+  xy: 964, 98
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+images/Dshenti2
+  rotate: false
+  xy: 993, 98
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+images/Dshenti3
+  rotate: true
+  xy: 433, 22
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+images/Dshenti4
+  rotate: true
+  xy: 463, 22
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+images/Dshenti5
+  rotate: true
+  xy: 493, 22
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+images/Dshou1 1
+  rotate: false
+  xy: 523, 40
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+images/Dshou1 2
+  rotate: true
+  xy: 533, 41
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+images/Dshou1 3
+  rotate: true
+  xy: 533, 31
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+images/Dshou1 4
+  rotate: false
+  xy: 523, 29
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+images/Dshou1 5
+  rotate: true
+  xy: 533, 21
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+images/Dshou2 5
+  rotate: true
+  xy: 533, 21
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+images/Dshou2 1
+  rotate: false
+  xy: 523, 18
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+images/Dshou2 2
+  rotate: true
+  xy: 533, 11
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+images/Dshou2 3
+  rotate: false
+  xy: 648, 66
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+images/Dshou2 4
+  rotate: false
+  xy: 2, 12
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+images/head
+  rotate: false
+  xy: 544, 2
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+images/head 2
+  rotate: false
+  xy: 594, 2
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+images/head 3
+  rotate: false
+  xy: 644, 2
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+images/head 4
+  rotate: false
+  xy: 648, 77
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+images/head 5
+  rotate: false
+  xy: 698, 77
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+images/hurt
+  rotate: false
+  xy: 928, 83
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+images/shenti
+  rotate: true
+  xy: 964, 69
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+images/shenti 2
+  rotate: true
+  xy: 994, 69
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+images/shenti 3
+  rotate: true
+  xy: 150, 8
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+images/shenti 4
+  rotate: true
+  xy: 180, 8
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+images/shenti 5
+  rotate: true
+  xy: 210, 8
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+images/shou1
+  rotate: true
+  xy: 2, 2
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+images/shou2
+  rotate: false
+  xy: 12, 12
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1

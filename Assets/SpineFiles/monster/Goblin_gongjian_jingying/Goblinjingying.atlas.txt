@@ -1,0 +1,125 @@
+
+Goblinjingying.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/datui01
+  rotate: true
+  xy: 65, 52
+  size: 4, 8
+  orig: 4, 8
+  offset: 0, 0
+  index: -1
+images/datui02
+  rotate: true
+  xy: 65, 52
+  size: 4, 8
+  orig: 4, 8
+  offset: 0, 0
+  index: -1
+images/gong
+  rotate: false
+  xy: 201, 59
+  size: 26, 64
+  orig: 26, 64
+  offset: 0, 0
+  index: -1
+images/gong 2
+  rotate: false
+  xy: 171, 59
+  size: 28, 64
+  orig: 28, 64
+  offset: 0, 0
+  index: -1
+images/gong 3
+  rotate: false
+  xy: 133, 59
+  size: 36, 64
+  orig: 36, 64
+  offset: 0, 0
+  index: -1
+images/hurt
+  rotate: false
+  xy: 2, 52
+  size: 61, 71
+  orig: 61, 71
+  offset: 0, 0
+  index: -1
+images/jian
+  rotate: false
+  xy: 2, 11
+  size: 10, 39
+  orig: 10, 39
+  offset: 0, 0
+  index: -1
+images/jiao01
+  rotate: false
+  xy: 248, 87
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+images/jiao02
+  rotate: false
+  xy: 248, 87
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+images/shenti
+  rotate: false
+  xy: 229, 95
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+images/shou1
+  rotate: false
+  xy: 2, 2
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+images/shou2
+  rotate: false
+  xy: 21, 43
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+images/shoubi01
+  rotate: false
+  xy: 14, 38
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+images/shoubi02
+  rotate: false
+  xy: 229, 81
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+images/tou
+  rotate: false
+  xy: 65, 58
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+images/xiaoshou01
+  rotate: false
+  xy: 248, 111
+  size: 6, 12
+  orig: 6, 12
+  offset: 0, 0
+  index: -1
+images/xiaoshou02
+  rotate: false
+  xy: 248, 97
+  size: 6, 12
+  orig: 6, 12
+  offset: 0, 0
+  index: -1

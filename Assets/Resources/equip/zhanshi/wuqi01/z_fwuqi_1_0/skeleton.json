@@ -1,0 +1,20 @@
+{
+"skeleton": { "hash": "xy82HXtIG6b4AZxacTSXTSX5u+U", "spine": "3.6.53", "width": 30.06, "height": 30.06, "images": "" },
+"bones": [
+	{ "name": "root", "rotation": -0.12 },
+	{ "name": "dun", "parent": "root", "x": -1.39, "y": 80.69 }
+],
+"slots": [
+	{ "name": "dun", "bone": "dun", "attachment": "dun" }
+],
+"skins": {
+	"default": {
+		"dun": {
+			"dun": { "width": 30, "height": 30 }
+		}
+	}
+},
+"animations": {
+	"animation": {}
+}
+}

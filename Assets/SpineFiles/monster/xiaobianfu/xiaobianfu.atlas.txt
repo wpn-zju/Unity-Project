@@ -1,0 +1,111 @@
+
+xiaobianfu.png
+size: 1024,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/A_01
+  rotate: false
+  xy: 175, 39
+  size: 69, 23
+  orig: 69, 23
+  offset: 0, 0
+  index: -1
+images/idle_01
+  rotate: false
+  xy: 175, 39
+  size: 69, 23
+  orig: 69, 23
+  offset: 0, 0
+  index: -1
+images/A_02
+  rotate: false
+  xy: 657, 30
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+images/A_03
+  rotate: false
+  xy: 246, 32
+  size: 55, 30
+  orig: 55, 30
+  offset: 0, 0
+  index: -1
+images/A_04
+  rotate: true
+  xy: 175, 2
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+images/die_02
+  rotate: false
+  xy: 303, 20
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+images/die_03
+  rotate: false
+  xy: 355, 18
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+images/die_04
+  rotate: false
+  xy: 407, 14
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+images/die_05
+  rotate: false
+  xy: 54, 11
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+images/die_06
+  rotate: false
+  xy: 2, 8
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1
+images/hurt01
+  rotate: true
+  xy: 559, 19
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+images/hurt02
+  rotate: true
+  xy: 511, 18
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+images/idle_02
+  rotate: false
+  xy: 459, 20
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+images/idle_03
+  rotate: false
+  xy: 106, 28
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+images/idle_04
+  rotate: true
+  xy: 606, 30
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1

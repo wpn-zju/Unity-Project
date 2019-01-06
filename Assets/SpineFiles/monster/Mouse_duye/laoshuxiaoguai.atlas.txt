@@ -1,0 +1,160 @@
+
+laoshuxiaoguai.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/D_01
+  rotate: false
+  xy: 2, 26
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_02
+  rotate: false
+  xy: 103, 26
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_03
+  rotate: false
+  xy: 204, 26
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_04
+  rotate: false
+  xy: 305, 26
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_05
+  rotate: false
+  xy: 406, 26
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_06
+  rotate: false
+  xy: 507, 26
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_07
+  rotate: false
+  xy: 608, 26
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/hurt
+  rotate: false
+  xy: 709, 52
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+images/jiao
+  rotate: false
+  xy: 853, 102
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+images/jiao2
+  rotate: false
+  xy: 874, 117
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+images/shenti
+  rotate: true
+  xy: 2, 2
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+images/shoubi
+  rotate: false
+  xy: 709, 33
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+images/shoubi2
+  rotate: false
+  xy: 802, 72
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+images/tou
+  rotate: false
+  xy: 760, 91
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1
+images/tou 2
+  rotate: false
+  xy: 755, 55
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+images/tou 3
+  rotate: false
+  xy: 808, 91
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+images/tou 4
+  rotate: false
+  xy: 709, 91
+  size: 49, 34
+  orig: 49, 34
+  offset: 0, 0
+  index: -1
+images/tui
+  rotate: false
+  xy: 34, 9
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+images/tui2
+  rotate: false
+  xy: 727, 39
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+images/weiba
+  rotate: false
+  xy: 853, 113
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+images/xiaoshou
+  rotate: false
+  xy: 818, 79
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+images/xiaoshou2
+  rotate: false
+  xy: 802, 60
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1

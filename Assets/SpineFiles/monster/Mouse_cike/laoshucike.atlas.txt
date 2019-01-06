@@ -1,0 +1,202 @@
+
+laoshucike.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/D_01
+  rotate: false
+  xy: 2, 27
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_02
+  rotate: false
+  xy: 103, 27
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_03
+  rotate: false
+  xy: 204, 27
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_04
+  rotate: false
+  xy: 305, 27
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_05
+  rotate: false
+  xy: 406, 27
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_06
+  rotate: false
+  xy: 507, 27
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_07
+  rotate: false
+  xy: 608, 27
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/hurt
+  rotate: false
+  xy: 787, 70
+  size: 71, 56
+  orig: 71, 56
+  offset: 0, 0
+  index: -1
+images/jiao
+  rotate: false
+  xy: 914, 50
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+images/jiao2
+  rotate: false
+  xy: 106, 10
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+images/mouth
+  rotate: false
+  xy: 42, 13
+  size: 36, 12
+  orig: 36, 12
+  offset: 0, 0
+  index: -1
+images/shenti
+  rotate: false
+  xy: 865, 46
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+images/shou
+  rotate: false
+  xy: 119, 12
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+images/shou2
+  rotate: false
+  xy: 133, 12
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+images/shoubi
+  rotate: true
+  xy: 865, 36
+  size: 8, 21
+  orig: 8, 21
+  offset: 0, 0
+  index: -1
+images/shoubi2
+  rotate: true
+  xy: 958, 79
+  size: 8, 21
+  orig: 8, 21
+  offset: 0, 0
+  index: -1
+images/tou
+  rotate: false
+  xy: 709, 73
+  size: 76, 53
+  orig: 76, 53
+  offset: 0, 0
+  index: -1
+images/toujin1
+  rotate: false
+  xy: 860, 89
+  size: 76, 37
+  orig: 76, 37
+  offset: 0, 0
+  index: -1
+images/toujin2
+  rotate: false
+  xy: 938, 89
+  size: 76, 37
+  orig: 76, 37
+  offset: 0, 0
+  index: -1
+images/toujin3
+  rotate: false
+  xy: 787, 31
+  size: 76, 37
+  orig: 76, 37
+  offset: 0, 0
+  index: -1
+images/toujin4
+  rotate: false
+  xy: 709, 34
+  size: 76, 37
+  orig: 76, 37
+  offset: 0, 0
+  index: -1
+images/tui
+  rotate: true
+  xy: 935, 72
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+images/tui2
+  rotate: false
+  xy: 914, 69
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+images/weiba
+  rotate: false
+  xy: 2, 11
+  size: 38, 14
+  orig: 38, 14
+  offset: 0, 0
+  index: -1
+images/wuqi
+  rotate: false
+  xy: 899, 48
+  size: 13, 39
+  orig: 13, 39
+  offset: 0, 0
+  index: -1
+images/wuqi 2
+  rotate: false
+  xy: 899, 48
+  size: 13, 39
+  orig: 13, 39
+  offset: 0, 0
+  index: -1
+images/xiaoshou
+  rotate: false
+  xy: 80, 2
+  size: 11, 23
+  orig: 11, 23
+  offset: 0, 0
+  index: -1
+images/xiaoshou2
+  rotate: false
+  xy: 93, 2
+  size: 11, 23
+  orig: 11, 23
+  offset: 0, 0
+  index: -1

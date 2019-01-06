@@ -1,0 +1,125 @@
+
+hero-pro.png
+size: 1024,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_01
+  rotate: false
+  xy: 2, 9
+  size: 86, 51
+  orig: 86, 51
+  offset: 0, 0
+  index: -1
+attack_08
+  rotate: false
+  xy: 2, 9
+  size: 86, 51
+  orig: 86, 51
+  offset: 0, 0
+  index: -1
+attack_02
+  rotate: false
+  xy: 90, 9
+  size: 86, 51
+  orig: 86, 51
+  offset: 0, 0
+  index: -1
+attack_03
+  rotate: false
+  xy: 178, 9
+  size: 86, 51
+  orig: 86, 51
+  offset: 0, 0
+  index: -1
+attack_04
+  rotate: false
+  xy: 266, 9
+  size: 86, 51
+  orig: 86, 51
+  offset: 0, 0
+  index: -1
+attack_05
+  rotate: false
+  xy: 354, 9
+  size: 86, 51
+  orig: 86, 51
+  offset: 0, 0
+  index: -1
+attack_06
+  rotate: false
+  xy: 442, 9
+  size: 86, 51
+  orig: 86, 51
+  offset: 0, 0
+  index: -1
+attack_07
+  rotate: false
+  xy: 530, 9
+  size: 86, 51
+  orig: 86, 51
+  offset: 0, 0
+  index: -1
+hurt_01
+  rotate: true
+  xy: 896, 11
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+hurt_02
+  rotate: true
+  xy: 856, 11
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+run_01
+  rotate: true
+  xy: 618, 2
+  size: 58, 32
+  orig: 58, 32
+  offset: 0, 0
+  index: -1
+run_02
+  rotate: true
+  xy: 652, 2
+  size: 58, 32
+  orig: 58, 32
+  offset: 0, 0
+  index: -1
+run_03
+  rotate: true
+  xy: 686, 2
+  size: 58, 32
+  orig: 58, 32
+  offset: 0, 0
+  index: -1
+run_04
+  rotate: true
+  xy: 720, 2
+  size: 58, 32
+  orig: 58, 32
+  offset: 0, 0
+  index: -1
+run_05
+  rotate: true
+  xy: 754, 2
+  size: 58, 32
+  orig: 58, 32
+  offset: 0, 0
+  index: -1
+run_06
+  rotate: true
+  xy: 788, 2
+  size: 58, 32
+  orig: 58, 32
+  offset: 0, 0
+  index: -1
+run_07
+  rotate: true
+  xy: 822, 2
+  size: 58, 32
+  orig: 58, 32
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,272 @@
+
+ghostfashi.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+death/dead_ (10)
+  rotate: true
+  xy: 302, 31
+  size: 95, 129
+  orig: 95, 129
+  offset: 0, 0
+  index: -1
+death/dead_ (11)
+  rotate: true
+  xy: 433, 51
+  size: 75, 109
+  orig: 75, 109
+  offset: 0, 0
+  index: -1
+death/dead_ (12)
+  rotate: true
+  xy: 544, 53
+  size: 73, 102
+  orig: 73, 102
+  offset: 0, 0
+  index: -1
+death/dead_ (8)
+  rotate: true
+  xy: 2, 23
+  size: 103, 146
+  orig: 103, 146
+  offset: 0, 0
+  index: -1
+death/dead_ (9)
+  rotate: true
+  xy: 150, 37
+  size: 89, 150
+  orig: 89, 150
+  offset: 0, 0
+  index: -1
+images/D2_shou02
+  rotate: false
+  xy: 74, 2
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+images/D2_shou03
+  rotate: false
+  xy: 87, 2
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+images/D2_shou04
+  rotate: false
+  xy: 100, 2
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+images/D2_shou05
+  rotate: false
+  xy: 113, 2
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+images/D_shenti02
+  rotate: true
+  xy: 519, 18
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+images/D_shenti03
+  rotate: false
+  xy: 546, 26
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+images/D_shenti04
+  rotate: false
+  xy: 579, 26
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+images/D_shenti05
+  rotate: false
+  xy: 612, 26
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+images/D_shou02
+  rotate: true
+  xy: 150, 25
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+images/D_shou03
+  rotate: true
+  xy: 1006, 95
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+images/D_shou04
+  rotate: true
+  xy: 139, 2
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+images/D_shou05
+  rotate: true
+  xy: 167, 25
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+images/D_tou02
+  rotate: false
+  xy: 695, 84
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+images/D_tou03
+  rotate: false
+  xy: 740, 84
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+images/D_tou04
+  rotate: false
+  xy: 785, 84
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+images/D_tou05
+  rotate: false
+  xy: 830, 84
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+images/denglong
+  rotate: false
+  xy: 1006, 107
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+images/denglong 02
+  rotate: false
+  xy: 2, 2
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+images/denglong 03
+  rotate: false
+  xy: 20, 2
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+images/denglong 04
+  rotate: false
+  xy: 38, 2
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+images/denglong 05
+  rotate: false
+  xy: 56, 2
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+images/gunzi
+  rotate: false
+  xy: 695, 77
+  size: 18, 5
+  orig: 18, 5
+  offset: 0, 0
+  index: -1
+images/hurt
+  rotate: false
+  xy: 648, 76
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+images/shenti
+  rotate: false
+  xy: 920, 91
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+images/shenti02
+  rotate: false
+  xy: 963, 91
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+images/shenti03
+  rotate: false
+  xy: 648, 39
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+images/shenti04
+  rotate: false
+  xy: 433, 14
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+images/shenti05
+  rotate: false
+  xy: 476, 14
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+images/shou01
+  rotate: true
+  xy: 156, 2
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+images/shou02
+  rotate: false
+  xy: 126, 2
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+images/shoubi01
+  rotate: true
+  xy: 546, 18
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+images/shoubi02
+  rotate: false
+  xy: 184, 25
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+images/tou
+  rotate: false
+  xy: 875, 84
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1

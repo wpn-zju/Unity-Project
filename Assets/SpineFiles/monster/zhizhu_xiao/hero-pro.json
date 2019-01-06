@@ -1,0 +1,199 @@
+{
+"skeleton": { "hash": "TZkHkHqLPasW2NEg49fL+5yYL28", "spine": "3.6.53", "width": 58, "height": 32, "images": "./zhizhu_xiao/" },
+"bones": [
+	{ "name": "root", "y": 2.78 },
+	{ "name": "center", "parent": "root", "y": 5.09 },
+	{ "name": "fashedian", "parent": "root", "x": 18.58, "y": 20.23 },
+	{ "name": "shoujidian", "parent": "root", "y": 6.14 },
+	{ "name": "xuetiao", "parent": "root", "y": 26.67 }
+],
+"slots": [
+	{ "name": "sword", "bone": "root" },
+	{ "name": "run_01", "bone": "root", "attachment": "run_01" },
+	{ "name": "attack_01", "bone": "root" },
+	{ "name": "hurt_01", "bone": "root" }
+],
+"skins": {
+	"default": {
+		"attack_01": {
+			"attack_01": { "x": 16.01, "y": 18.49, "width": 86, "height": 51 },
+			"attack_02": { "x": 16.01, "y": 18.49, "width": 86, "height": 51 },
+			"attack_03": { "x": 16.01, "y": 18.49, "width": 86, "height": 51 },
+			"attack_04": { "x": 16.01, "y": 18.49, "width": 86, "height": 51 },
+			"attack_05": { "x": 16.01, "y": 18.49, "width": 86, "height": 51 },
+			"attack_06": { "x": 16.01, "y": 18.49, "width": 86, "height": 51 },
+			"attack_07": { "x": 16.01, "y": 18.49, "width": 86, "height": 51 },
+			"attack_08": { "x": 16.01, "y": 18.49, "width": 86, "height": 51 }
+		},
+		"hurt_01": {
+			"hurt_01": { "y": 11.72, "width": 49, "height": 38 },
+			"hurt_02": { "y": 11.55, "width": 49, "height": 38 }
+		},
+		"run_01": {
+			"run_01": { "y": 6.61, "width": 58, "height": 32 },
+			"run_02": { "y": 6.61, "width": 58, "height": 32 },
+			"run_03": { "y": 6.61, "width": 58, "height": 32 },
+			"run_04": { "y": 6.61, "width": 58, "height": 32 },
+			"run_05": { "y": 6.61, "width": 58, "height": 32 },
+			"run_06": { "y": 6.61, "width": 58, "height": 32 },
+			"run_07": { "y": 6.61, "width": 58, "height": 32 }
+		}
+	}
+},
+"events": {
+	"attack": {},
+	"end": {},
+	"footstep11": {}
+},
+"animations": {
+	"attack": {
+		"slots": {
+			"attack_01": {
+				"attachment": [
+					{ "time": 0, "name": "attack_01" },
+					{ "time": 0.0667, "name": "attack_02" },
+					{ "time": 0.1333, "name": "attack_03" },
+					{ "time": 0.2, "name": "attack_03" },
+					{ "time": 0.2667, "name": "attack_03" },
+					{ "time": 0.3333, "name": "attack_04" },
+					{ "time": 0.4, "name": "attack_04" },
+					{ "time": 0.4667, "name": "attack_05" },
+					{ "time": 0.5333, "name": "attack_06" },
+					{ "time": 0.6, "name": "attack_06" },
+					{ "time": 0.6667, "name": "attack_07" },
+					{ "time": 0.7333, "name": "attack_08" },
+					{ "time": 0.8, "name": "attack_01" }
+				]
+			},
+			"run_01": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"fashedian": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0.79 }
+				]
+			}
+		}
+	},
+	"attack_down": {
+		"slots": {
+			"attack_01": {
+				"attachment": [
+					{ "time": 0, "name": "attack_01" },
+					{ "time": 0.0667, "name": "attack_02" },
+					{ "time": 0.1333, "name": "attack_03" },
+					{ "time": 0.2, "name": "attack_03" },
+					{ "time": 0.2667, "name": "attack_03" },
+					{ "time": 0.3333, "name": "attack_04" },
+					{ "time": 0.4, "name": "attack_04" },
+					{ "time": 0.4667, "name": "attack_05" },
+					{ "time": 0.5333, "name": "attack_06" },
+					{ "time": 0.6, "name": "attack_06" },
+					{ "time": 0.6667, "name": "attack_07" },
+					{ "time": 0.7333, "name": "attack_08" },
+					{ "time": 0.8, "name": "attack_01" }
+				]
+			},
+			"run_01": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"fashedian": {
+				"translate": [
+					{ "time": 0, "x": -4.73, "y": -23.14 }
+				]
+			}
+		}
+	},
+	"attack_up": {
+		"slots": {
+			"attack_01": {
+				"attachment": [
+					{ "time": 0, "name": "attack_01" },
+					{ "time": 0.0667, "name": "attack_02" },
+					{ "time": 0.1333, "name": "attack_03" },
+					{ "time": 0.2, "name": "attack_03" },
+					{ "time": 0.2667, "name": "attack_03" },
+					{ "time": 0.3333, "name": "attack_04" },
+					{ "time": 0.4, "name": "attack_04" },
+					{ "time": 0.4667, "name": "attack_05" },
+					{ "time": 0.5333, "name": "attack_06" },
+					{ "time": 0.6, "name": "attack_06" },
+					{ "time": 0.6667, "name": "attack_07" },
+					{ "time": 0.7333, "name": "attack_08" },
+					{ "time": 0.8, "name": "attack_01" }
+				]
+			},
+			"run_01": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"fashedian": {
+				"translate": [
+					{ "time": 0, "x": -5.52, "y": 0.79 }
+				]
+			}
+		}
+	},
+	"death": {
+		"slots": {
+			"run_01": {
+				"attachment": [
+					{ "time": 0, "name": "run_01" }
+				]
+			}
+		}
+	},
+	"hurt": {
+		"slots": {
+			"hurt_01": {
+				"attachment": [
+					{ "time": 0, "name": "hurt_01" },
+					{ "time": 0.0667, "name": "hurt_02" },
+					{ "time": 0.1333, "name": "hurt_02" }
+				]
+			},
+			"run_01": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		}
+	},
+	"idle": {
+		"slots": {
+			"run_01": {
+				"attachment": [
+					{ "time": 0, "name": "run_01" }
+				]
+			}
+		}
+	},
+	"run": {
+		"slots": {
+			"run_01": {
+				"attachment": [
+					{ "time": 0, "name": "run_01" },
+					{ "time": 0.0667, "name": "run_02" },
+					{ "time": 0.1333, "name": "run_03" },
+					{ "time": 0.2, "name": "run_04" },
+					{ "time": 0.2667, "name": "run_05" },
+					{ "time": 0.3333, "name": "run_06" },
+					{ "time": 0.4, "name": "run_07" },
+					{ "time": 0.4667, "name": "run_01" }
+				]
+			}
+		}
+	}
+}
+}

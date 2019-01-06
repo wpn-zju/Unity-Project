@@ -1,0 +1,56 @@
+﻿ID	SkillName	SkillNameCN	aoe	toself	aiId	animeOrder	moveOrder	objOrder	damageOrder	buffOrder	note
+1	Ice cone	冰锥	0	0	0	attack	null	3,50	null	null	null
+2	Fireball	火球	0	0	0	attack	null	4,50	null	null	null
+3	Single shot	单体射击	0	0	0	attack	null	5,65	null	null	null
+4	Multiple shot	万箭齐发	1	0	0	attack	null	5,65	null	null	null
+5	Stab	猛刺	0	0	0	run/attack/run	-1,-1/-2,-2	null	1,0,40	null	null
+6	Multiple stab	连环刺	0	0	0	run/attack_up/attack/attack_down/run	-1,-1/-2,-2	null	0.5,0,40/0.5,0,50/0.5,0,50/0.5,0,50	null	null
+7	Lightning ball	麻痹雷电球	0	0	0	ability_2	null	6,60	null	null	null
+8	Explosion	地面爆裂	0	0	0	ability_1	null	19,60/10019,120	null	null	null
+9	Multiple ice cone	冰锥连射	0	0	0	attack	null	7,30/10007,2/20007,2/30007,2	null	null	null
+10	Single shot	单体射击	0	0	0	attack	null	18,40	null	null	null
+11	Arrow rain	箭雨	0	0	0	ability2	null	30,55/31,2/32,2/33,2/34,2/35,2	null	null	null
+12	Arrow rain	箭雨	0	0	0	ability2	null	30,55/31,2/32,2/33,2/34,2/35,2	null	null	null
+13	Stick hit	棒击	0	0	0	run00/attack/run00	-1,-1/-2,-2	null	1,0,45	null	null
+14	Charge hit	蓄力一击	0	0	0	attack/run00/attack/run00	-1,-1/-2,-2	null	1.3,0,110	null	null
+15	Charge hit	蓄力一击	0	0	0	attack/run/attack/run	-1,-1/-2,-2	null	1.3,0,110	null	null
+16	Lantern hit	灯笼挥击	0	0	0	run/attack/run	-1,-1/-2,-2	null	1,0,35	null	null
+17	Energy bullet	能量弹	0	0	0	attack	null	15,35	null	null	null
+18	Claw	爪击	0	0	0	run/attack/run	-1,-1/-2,-2	null	1,0,25	null	null
+19	Claw	爪击	0	0	0	run/attack/run	-1,-1/-2,-2	null	1,0,25	null	null
+20	Slash	劈砍	0	0	0	run/attack/run	-1,-1/-2,-2	null	1,0,35	null	null
+21	Strengthen slash	强化劈砍	0	0	0	run/ability_1/run	-1,-1/-2,-2	null	1.3,0,55	null	null
+22	Strengthen slash	强化劈砍	0	0	0	run/ability_1/run	-1,-1/-2,-2	null	1.3,0,55	null	null
+23	Magic bullet	能量弹	0	0	0	attack	null	10,45	null	null	null
+24	Magic arrow	能量箭	0	0	0	attack	null	13,45	null	null	null
+25	Single shot	单体射击	0	0	0	attack	null	5,60	null	null	null
+26	Multiple shot	万箭齐发	1	0	0	attack	null	5,60	null	null	null
+27	Slash	挥击	0	0	0	run/attack/run	-1,-1/-2,-2	null	1,0,30	null	null
+28	Slash	挥击	0	0	0	run/attack/run	-1,-1/-2,-2	null	1,0,30	null	null
+29	Dagger hit	匕首攻击	0	0	0	run3/ability_1/run3	-1,-1/-2,-2	null	1,0,25	null	null
+30	Two combos	二连击	0	0	0	run/attack_1/attack_2/run	-1,-1/-2,-2	null	0.75,0,15/0.75,0,20	null	null
+31	Staff hit	杖击	0	0	0	run/attack/run	-1,-1/-2,-2	null	1,0,50	null	null
+32	Magic bullet	能量弹	0	0	0	attack	null	10,50	null	null	null
+33	Magic arrow	能量箭	0	0	0	attack	null	13,50	null	null	null
+34	Slash	劈砍	0	0	0	run00/attack/run00	-1,-1/-2,-2	null	1,0,25	null	null
+35	Strengthen slash	强化劈砍	0	0	0	run/attack/run	-1,-1/-2,-2	null	1.3,0,25	null	null
+36	Charge Slash	蓄力劈砍	0	0	0	attack/run/attack/run	-1,-1/-2,-2	null	1.6,0,85	null	null
+37	Double hammer	双锤	0	0	0	run/attack_1/attack_2/run	-1,-1/-2,-2	null	0.6,0,30/0.6,0,35	null	null
+38	Bite	撕咬	0	0	0	run/ability/run	-1,-1/-2,-2	null	1.3,0,40	null	null
+39	Slash	棍棒挥击	0	0	0	run/attack/run	-1,-1/-2,-2	null	1,0,30	null	null
+40	Charge slash	蓄力挥击	0	0	0	attack/run/attack/run	-1,-1/-2,-2	null	1.3,0,120	null	null
+41	Spear throw	投矛	0	0	0	run2/ability/run2	-1.5,0.5/-2,-2	17,33	null	null	null
+42	Stab	刺击	0	0	0	run/attack_2/run	-1,-1/-2,-2	null	1.1,0,20	null	null
+43	Bite	撕咬	0	0	0	run/ability2/run	-1,-1/-2,-2	null	1.3,0,40	null	null
+44	Two combos	二连击	0	0	0	run/attack_beifen/run	-1,-1/-2,-2	null	0.75,0,50/0.75,0,20	null	null
+45	Single shot	单体射击	0	0	0	attack	null	23,40	null	null	null
+46	Two arrow combos	二连射	0	0	0	attack/attack	null	23,40/10023,60	null	null	null
+47	Swing	挥击	0	0	0	run/attack/run	-1,-1/-2,-2	null	1,0,25	null	null
+48	Bite	撕咬	0	0	0	run/ability/run	-1,-1/-2,-2	null	1.3,0,20	null	null
+49	Slash	强击	0	0	0	run/attack/run	-1,-1/-2,-2	null	1,0,30	null	null
+50	Assassination	刺杀	0	0	0	run/ability/run	-1,-1/-2,-2	null	2.0,0,30	null	null
+51	Claw	爪击	0	0	0	run/attack/run	-1,-1/-2,-2	null	1,0,30	null	null
+52	Slash	挥击	0	0	0	run/attack/run	-1,-1/-2,-2	null	1,0,40	null	null
+53	Charge Slash	蓄力挥击	0	0	0	attack/run/attack/run	-1,-1/-2,-2	null	1.3,0,120	null	null
+54	Stab	猛刺	0	0	0	run/attack/run	-1,-1/-2,-2	null	1,0,40	null	null
+55	Multiple stab	连环刺	0	0	0	run3/attack_up/attack/attack_down/attack3/run3	-1,-1/-2,-2	null	0.5,0,40/0.5,0,50/0.5,0,50/0.5,0,50	null	null

@@ -1,0 +1,15 @@
+﻿ID	Name	CN Name	Infinity	Addable	ToT	Total Rounds	Max Level	Type	Data	To Self	Icon Path	Describe	CN Describe
+1	Tough	护体	1	0	0	0	1	1	rpDmg,20	0	Rune_Invincible	Tough, receive damage decresed by 20%.	护体，受到伤害减少20%
+2	Furious	强击	1	0	0	0	1	1	pAtk,20	0	Rune_Invincible	Furious, attack increased by 20%.	强击，攻击提高20%
+3	Firm	坚定	1	0	0	0	1	1	pDef,20	0	Rune_Invincible	Firm, defense increased by 20%.	坚定，防御提高20%
+4	Agile	敏捷	1	0	0	0	1	1	pSpd,20	0	Rune_Invincible	Agile, speed increased by 20%.	敏捷，速度提高20%
+5	Violent	狂暴	1	0	0	0	1	1	crit,20	0	Rune_Invincible	Violent, critical increased by 20%.	狂暴，暴击几率提高20%
+6	Accurate	精准	1	0	0	0	1	1	igDef,20	0	Rune_Invincible	Accurate, armor penetration increased  by 20%.	精准，护甲穿透提高20%
+7	Prickly	刺甲	1	0	0	0	1	1	reflect,20	0	Rune_Invincible	Prickly, reflect 20% damage received.	刺甲，反弹伤害提高20%
+8	Bloodthirsty	嗜血	1	0	0	0	1	1	atkHeal,20	0	Rune_Invincible	Bloodthirsty, steal 20% hp after attack.	嗜血，生命偷取提高20%
+21	M Frozen Arrow	冰冻	0	0	1	3	1	1	pSpd,-30	0	Rune_Invincible	Hurt by Ice arrow, speed decreased by 30%.	被寒冰箭命中，速度降低30%
+22	M Frozen Magic	冰冻	0	0	1	3	1	1	pSpd,-30	0	Rune_Invincible	Hurt by Ice magic, speed decreased by 30%.	被寒冰魔法命中 ，速度降低 30%
+23	M Fire Magic	灼烧	0	0	1	3	1	2	Hp,-50	0	Rune_Invincible	You get fired, receive 50 damage per round.	被点燃，每回合损失50点生命值
+24	M Fire Arrow	灼烧	0	0	1	3	1	2	Hp,-50	0	Rune_Invincible	You get fired, receive 50 damage per round.	被点燃，每回合损失50点生命值
+25	M Numb	晕眩	0	0	1	2	1	4	Dizzy,50	0	Rune_Invincible	Hurt by thunder ball, 50% numb next round.	被雷电球击中，下回合50%几率晕眩
+26	M E Frozen	冰冻	0	1	1	3	5	1	pSpd,-10	0	Rune_Invincible	Hurt by ice magic, speed decreased by 10% per level.	被冰锥集中，每层减速10%，最多叠加5层

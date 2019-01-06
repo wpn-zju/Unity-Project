@@ -1,0 +1,174 @@
+
+ghostjingying.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daoguang/daoguang_normal_01
+  rotate: false
+  xy: 2, 168
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+daoguang/daoguang_normal_02
+  rotate: false
+  xy: 154, 340
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+daoguang/daoguang_normal_03
+  rotate: false
+  xy: 154, 168
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+daoguang/daoguang_normal_04
+  rotate: true
+  xy: 2, 16
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+daoguang/daoguang_normal_05
+  rotate: false
+  xy: 306, 340
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+daoguang/daoguang_normal_06
+  rotate: false
+  xy: 306, 168
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+daoguang/daoguang_normal_07
+  rotate: false
+  xy: 2, 340
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+images/01
+  rotate: false
+  xy: 174, 72
+  size: 84, 94
+  orig: 84, 94
+  offset: 0, 0
+  index: -1
+images/02
+  rotate: false
+  xy: 458, 416
+  size: 84, 94
+  orig: 84, 94
+  offset: 0, 0
+  index: -1
+images/03
+  rotate: false
+  xy: 260, 72
+  size: 84, 94
+  orig: 84, 94
+  offset: 0, 0
+  index: -1
+images/04
+  rotate: false
+  xy: 458, 320
+  size: 84, 94
+  orig: 84, 94
+  offset: 0, 0
+  index: -1
+images/05
+  rotate: false
+  xy: 544, 416
+  size: 84, 94
+  orig: 84, 94
+  offset: 0, 0
+  index: -1
+images/D_1
+  rotate: false
+  xy: 458, 177
+  size: 55, 70
+  orig: 55, 70
+  offset: 0, 0
+  index: -1
+images/D_2
+  rotate: true
+  xy: 694, 455
+  size: 55, 70
+  orig: 55, 70
+  offset: 0, 0
+  index: -1
+images/D_3
+  rotate: true
+  xy: 766, 455
+  size: 55, 70
+  orig: 55, 70
+  offset: 0, 0
+  index: -1
+images/hurt
+  rotate: true
+  xy: 174, 16
+  size: 54, 84
+  orig: 54, 84
+  offset: 0, 0
+  index: -1
+images/shou01
+  rotate: false
+  xy: 260, 57
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+images/shou02
+  rotate: false
+  xy: 346, 82
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+images/shoubi01
+  rotate: false
+  xy: 2, 2
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+images/shoubi02
+  rotate: false
+  xy: 12, 2
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+images/wuqi
+  rotate: false
+  xy: 346, 97
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1
+images/wuqi 02
+  rotate: false
+  xy: 458, 249
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1
+images/wuqi 03
+  rotate: false
+  xy: 544, 345
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1
+images/wuqi 04
+  rotate: false
+  xy: 630, 441
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1

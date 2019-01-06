@@ -1,0 +1,104 @@
+
+wuyaozhanglao.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+datui01
+  rotate: true
+  xy: 141, 65
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+datui02
+  rotate: true
+  xy: 141, 65
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+hurt
+  rotate: false
+  xy: 2, 58
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+jiao01
+  rotate: false
+  xy: 237, 77
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+jiao02
+  rotate: false
+  xy: 237, 77
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 36, 32
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+shou01
+  rotate: false
+  xy: 237, 105
+  size: 10, 20
+  orig: 10, 20
+  offset: 0, 0
+  index: -1
+shou02
+  rotate: false
+  xy: 2, 2
+  size: 10, 20
+  orig: 10, 20
+  offset: 0, 0
+  index: -1
+shoubi01
+  rotate: false
+  xy: 237, 88
+  size: 7, 15
+  orig: 7, 15
+  offset: 0, 0
+  index: -1
+shoubi02
+  rotate: false
+  xy: 14, 7
+  size: 7, 15
+  orig: 7, 15
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 71, 65
+  size: 68, 60
+  orig: 68, 60
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: true
+  xy: 141, 73
+  size: 24, 94
+  orig: 24, 94
+  offset: 0, 0
+  index: -1
+wuqi 02
+  rotate: true
+  xy: 141, 99
+  size: 26, 94
+  orig: 26, 94
+  offset: 0, 0
+  index: -1
+弹幕
+  rotate: false
+  xy: 2, 24
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

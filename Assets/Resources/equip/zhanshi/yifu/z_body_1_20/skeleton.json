@@ -1,0 +1,47 @@
+{
+"skeleton": { "hash": "3IrsxglbBmBEtBxhSKG7bE9QM6s", "spine": "3.6.53", "width": 11, "height": 8, "images": "" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "jianjia01_idle01", "bone": "root", "attachment": "xiaobi02" }
+],
+"skins": {
+	"default": {
+		"jianjia01_idle01": {
+			"beifen01": { "width": 1, "height": 1 },
+			"beifen02": { "width": 1, "height": 1 },
+			"beifen03": { "width": 1, "height": 1 },
+			"changpao_idle01": { "width": 1, "height": 1 },
+			"changpao_run01": { "width": 1, "height": 1 },
+			"changpao_run02": { "width": 1, "height": 1 },
+			"changpao_run03": { "width": 1, "height": 1 },
+			"changpao_run04": { "width": 1, "height": 1 },
+			"dabi01": { "width": 9, "height": 8 },
+			"dabi02": { "width": 9, "height": 8 },
+			"jianjia01_idle01": { "width": 18, "height": 15 },
+			"jianjia01_run01": { "width": 18, "height": 15 },
+			"jianjia02_idle01": { "width": 18, "height": 15 },
+			"jianjia02_run01": { "width": 18, "height": 15 },
+			"pijian02_idle01": { "width": 1, "height": 1 },
+			"pijian_idle01": { "width": 1, "height": 1 },
+			"weiqun_idle01": { "width": 28, "height": 11 },
+			"weiqun_run01": { "width": 28, "height": 11 },
+			"weiqun_run02": { "width": 28, "height": 11 },
+			"weiqun_run03": { "width": 28, "height": 11 },
+			"weiqun_run04": { "width": 28, "height": 11 },
+			"weiqun_run05": { "width": 28, "height": 11 },
+			"weiqun_run06": { "width": 28, "height": 11 },
+			"weiqun_run07": { "width": 28, "height": 11 },
+			"weiqun_run08": { "width": 28, "height": 11 },
+			"xiaobi01": { "width": 11, "height": 8 },
+			"xiaobi02": { "width": 11, "height": 8 },
+			"yifu_idle01": { "width": 27, "height": 16 },
+			"yifu_run01": { "width": 27, "height": 16 }
+		}
+	}
+},
+"animations": {
+	"animation": {}
+}
+}

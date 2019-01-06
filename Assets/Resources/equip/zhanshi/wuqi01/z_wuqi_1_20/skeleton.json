@@ -1,0 +1,19 @@
+{
+"skeleton": { "hash": "EhSlvMhgBS+cUPotNdpi6V7gZzA", "spine": "3.6.53", "width": 61, "height": 21, "images": "" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "wuqi01", "bone": "root", "attachment": "wuqi01" }
+],
+"skins": {
+	"default": {
+		"wuqi01": {
+			"wuqi01": { "width": 61, "height": 21 }
+		}
+	}
+},
+"animations": {
+	"animation": {}
+}
+}

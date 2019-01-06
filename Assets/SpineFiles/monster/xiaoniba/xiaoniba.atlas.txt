@@ -1,0 +1,153 @@
+
+xiaoniba.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/D_02
+  rotate: false
+  xy: 2, 2
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+images/attack_02
+  rotate: false
+  xy: 2, 2
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+images/idle_02
+  rotate: false
+  xy: 2, 2
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+images/D_03
+  rotate: false
+  xy: 85, 56
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+images/D_04
+  rotate: false
+  xy: 85, 2
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+images/D_05
+  rotate: false
+  xy: 168, 56
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+images/D_06
+  rotate: false
+  xy: 168, 2
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+images/D_07
+  rotate: false
+  xy: 251, 56
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+images/D_08
+  rotate: false
+  xy: 2, 56
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+images/attack_03
+  rotate: false
+  xy: 251, 2
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+images/attack_04
+  rotate: false
+  xy: 334, 56
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+images/attack_05
+  rotate: false
+  xy: 334, 2
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+images/attack_06
+  rotate: false
+  xy: 417, 56
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+images/attack_07
+  rotate: false
+  xy: 417, 2
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+images/hurt_02
+  rotate: false
+  xy: 500, 56
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+images/hurt_03
+  rotate: false
+  xy: 500, 2
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+images/idle_01
+  rotate: false
+  xy: 583, 56
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+images/idle_01_02
+  rotate: false
+  xy: 749, 56
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+images/idle_03
+  rotate: false
+  xy: 583, 2
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+images/idle_04
+  rotate: false
+  xy: 666, 56
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+images/idle_05
+  rotate: false
+  xy: 666, 2
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1

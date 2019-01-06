@@ -1,0 +1,237 @@
+
+xiyichangmao.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/D_01
+  rotate: false
+  xy: 174, 67
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_02
+  rotate: false
+  xy: 458, 411
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_03
+  rotate: false
+  xy: 275, 67
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_04
+  rotate: false
+  xy: 458, 310
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_05
+  rotate: false
+  xy: 559, 411
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_06
+  rotate: false
+  xy: 458, 209
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_07
+  rotate: false
+  xy: 559, 310
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/daoguang_normal_01
+  rotate: false
+  xy: 2, 340
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+images/daoguang_normal_02
+  rotate: false
+  xy: 2, 168
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+images/daoguang_normal_03
+  rotate: false
+  xy: 154, 340
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+images/daoguang_normal_04
+  rotate: false
+  xy: 154, 168
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+images/daoguang_normal_05
+  rotate: true
+  xy: 2, 16
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+images/daoguang_normal_06
+  rotate: false
+  xy: 306, 340
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+images/daoguang_normal_07
+  rotate: false
+  xy: 306, 168
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+images/hurt
+  rotate: true
+  xy: 458, 170
+  size: 37, 80
+  orig: 37, 80
+  offset: 0, 0
+  index: -1
+images/jiao
+  rotate: true
+  xy: 19, 2
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+images/jiao2
+  rotate: false
+  xy: 540, 198
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+images/mouth
+  rotate: false
+  xy: 559, 222
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+images/shenti
+  rotate: false
+  xy: 376, 85
+  size: 43, 81
+  orig: 43, 81
+  offset: 0, 0
+  index: -1
+images/shou1_a
+  rotate: false
+  xy: 223, 28
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+images/shou1_b
+  rotate: true
+  xy: 174, 2
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+images/shou2
+  rotate: false
+  xy: 598, 288
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+images/shoubi
+  rotate: false
+  xy: 660, 447
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+images/shoubi2
+  rotate: false
+  xy: 421, 127
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+images/shouzhi
+  rotate: false
+  xy: 660, 425
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+images/texiao
+  rotate: false
+  xy: 660, 489
+  size: 115, 21
+  orig: 115, 21
+  offset: 0, 0
+  index: -1
+images/tou
+  rotate: false
+  xy: 559, 250
+  size: 37, 58
+  orig: 37, 58
+  offset: 0, 0
+  index: -1
+images/tui
+  rotate: true
+  xy: 2, 2
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+images/tui2
+  rotate: true
+  xy: 327, 51
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+images/weiba
+  rotate: false
+  xy: 174, 26
+  size: 47, 22
+  orig: 47, 22
+  offset: 0, 0
+  index: -1
+images/wuqi1
+  rotate: false
+  xy: 174, 50
+  size: 151, 15
+  orig: 151, 15
+  offset: 0, 0
+  index: -1
+images/xiaoshou
+  rotate: true
+  xy: 777, 492
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+images/xiaoshou2
+  rotate: true
+  xy: 376, 67
+  size: 16, 33
+  orig: 16, 33
+  offset: 0, 0
+  index: -1

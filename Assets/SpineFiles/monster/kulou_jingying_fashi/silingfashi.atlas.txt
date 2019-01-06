@@ -1,0 +1,216 @@
+
+silingfashi.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D_01
+  rotate: false
+  xy: 2, 27
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+D_02
+  rotate: false
+  xy: 103, 27
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+D_03
+  rotate: false
+  xy: 204, 27
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+D_04
+  rotate: false
+  xy: 305, 27
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+D_05
+  rotate: false
+  xy: 406, 27
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+D_06
+  rotate: false
+  xy: 507, 27
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+D_07
+  rotate: false
+  xy: 608, 27
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+bone01
+  rotate: true
+  xy: 87, 2
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+bone02
+  rotate: false
+  xy: 119, 18
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+bone03
+  rotate: true
+  xy: 111, 18
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+fazhang
+  rotate: true
+  xy: 2, 7
+  size: 18, 72
+  orig: 18, 72
+  offset: 0, 0
+  index: -1
+fazhang 02
+  rotate: true
+  xy: 913, 38
+  size: 28, 75
+  orig: 28, 75
+  offset: 0, 0
+  index: -1
+fazhang 03
+  rotate: true
+  xy: 913, 8
+  size: 28, 75
+  orig: 28, 75
+  offset: 0, 0
+  index: -1
+fazhang 04
+  rotate: false
+  xy: 990, 51
+  size: 28, 75
+  orig: 28, 75
+  offset: 0, 0
+  index: -1
+hurt
+  rotate: false
+  xy: 874, 68
+  size: 53, 58
+  orig: 53, 58
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: true
+  xy: 99, 2
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: true
+  xy: 99, 2
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 990, 25
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 76, 8
+  size: 9, 17
+  orig: 9, 17
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 76, 8
+  size: 9, 17
+  orig: 9, 17
+  offset: 0, 0
+  index: -1
+shoubi
+  rotate: false
+  xy: 87, 11
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+shoubi2
+  rotate: false
+  xy: 99, 11
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 709, 60
+  size: 53, 66
+  orig: 53, 66
+  offset: 0, 0
+  index: -1
+tou 02
+  rotate: true
+  xy: 709, 5
+  size: 53, 66
+  orig: 53, 66
+  offset: 0, 0
+  index: -1
+tou 03
+  rotate: false
+  xy: 764, 60
+  size: 53, 66
+  orig: 53, 66
+  offset: 0, 0
+  index: -1
+tou 04
+  rotate: true
+  xy: 777, 5
+  size: 53, 66
+  orig: 53, 66
+  offset: 0, 0
+  index: -1
+tou 05
+  rotate: false
+  xy: 819, 60
+  size: 53, 66
+  orig: 53, 66
+  offset: 0, 0
+  index: -1
+tou 06
+  rotate: true
+  xy: 845, 5
+  size: 53, 66
+  orig: 53, 66
+  offset: 0, 0
+  index: -1
+tui
+  rotate: true
+  xy: 110, 3
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: true
+  xy: 110, 3
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1

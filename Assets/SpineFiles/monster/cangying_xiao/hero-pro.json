@@ -1,0 +1,109 @@
+{
+"skeleton": { "hash": "ZdNSeZbdua+NN4tKBLKU/0uxq1w", "spine": "3.6.53", "width": 46, "height": 49, "images": "./cangying_xiao/" },
+"bones": [
+	{ "name": "root", "y": 2.78 },
+	{ "name": "center", "parent": "root", "y": -2.78 },
+	{ "name": "fashedian", "parent": "root", "x": 18.58, "y": 20.23 },
+	{ "name": "shoujidian", "parent": "root", "y": -2.78 }
+],
+"slots": [
+	{ "name": "sword", "bone": "root" },
+	{ "name": "fly_01", "bone": "root", "attachment": "fly_01" },
+	{ "name": "attack_01", "bone": "root" },
+	{ "name": "hurt_01", "bone": "root" }
+],
+"skins": {
+	"default": {
+		"attack_01": {
+			"attack_01": { "width": 61, "height": 49 },
+			"attack_02": { "width": 61, "height": 49 },
+			"attack_03": { "width": 61, "height": 49 },
+			"attack_04": { "width": 61, "height": 49 }
+		},
+		"fly_01": {
+			"fly_01": { "width": 46, "height": 49 },
+			"fly_02": { "width": 46, "height": 49 },
+			"fly_03": { "width": 46, "height": 49 }
+		},
+		"hurt_01": {
+			"hurt_01": { "width": 46, "height": 49 },
+			"hurt_02": { "width": 46, "height": 49 }
+		}
+	}
+},
+"events": {
+	"attack": {},
+	"end": {},
+	"footstep11": {}
+},
+"animations": {
+	"attack": {
+		"slots": {
+			"attack_01": {
+				"attachment": [
+					{ "time": 0, "name": "attack_01" },
+					{ "time": 0.0667, "name": "attack_02" },
+					{ "time": 0.1333, "name": "attack_03" },
+					{ "time": 0.2, "name": "attack_03" },
+					{ "time": 0.2667, "name": "attack_04" },
+					{ "time": 0.4, "name": "attack_04" }
+				]
+			},
+			"fly_01": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		}
+	},
+	"death": {
+		"slots": {
+			"fly_01": {
+				"attachment": [
+					{ "time": 0, "name": "fly_01" }
+				]
+			}
+		}
+	},
+	"hurt": {
+		"slots": {
+			"fly_01": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"hurt_01": {
+				"attachment": [
+					{ "time": 0, "name": "hurt_01" },
+					{ "time": 0.0667, "name": "hurt_02" },
+					{ "time": 0.1667, "name": "hurt_02" }
+				]
+			}
+		}
+	},
+	"idle": {
+		"slots": {
+			"fly_01": {
+				"attachment": [
+					{ "time": 0, "name": "fly_01" },
+					{ "time": 0.0667, "name": "fly_02" },
+					{ "time": 0.1333, "name": "fly_03" },
+					{ "time": 0.2, "name": "fly_01" }
+				]
+			}
+		}
+	},
+	"run": {
+		"slots": {
+			"fly_01": {
+				"attachment": [
+					{ "time": 0, "name": "fly_01" },
+					{ "time": 0.0667, "name": "fly_02" },
+					{ "time": 0.1333, "name": "fly_03" },
+					{ "time": 0.2, "name": "fly_01" }
+				]
+			}
+		}
+	}
+}
+}

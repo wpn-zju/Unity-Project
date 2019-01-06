@@ -1,0 +1,160 @@
+
+zhaohuan_treeman.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+danmu
+  rotate: false
+  xy: 807, 94
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+images/D_01
+  rotate: false
+  xy: 2, 27
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_02
+  rotate: false
+  xy: 103, 27
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_03
+  rotate: false
+  xy: 204, 27
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_04
+  rotate: false
+  xy: 305, 27
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_05
+  rotate: false
+  xy: 406, 27
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_06
+  rotate: false
+  xy: 507, 27
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_07
+  rotate: false
+  xy: 608, 27
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/guangjead
+  rotate: false
+  xy: 709, 78
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+images/guangshenti
+  rotate: false
+  xy: 840, 99
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+images/head
+  rotate: false
+  xy: 709, 37
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+images/hurt
+  rotate: false
+  xy: 763, 86
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+images/jiao01
+  rotate: false
+  xy: 807, 86
+  size: 3, 6
+  orig: 3, 6
+  offset: 0, 0
+  index: -1
+images/jiao02
+  rotate: true
+  xy: 2, 2
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+images/shenti
+  rotate: false
+  xy: 18, 12
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+images/shou01
+  rotate: false
+  xy: 2, 8
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+images/shou02
+  rotate: false
+  xy: 872, 111
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+images/shoubi01
+  rotate: false
+  xy: 754, 70
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+images/shoubi02
+  rotate: false
+  xy: 763, 79
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+images/toufa1
+  rotate: true
+  xy: 709, 28
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+images/toufa2
+  rotate: false
+  xy: 18, 2
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+images/yao
+  rotate: false
+  xy: 888, 115
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1

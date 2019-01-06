@@ -1,0 +1,195 @@
+
+laoshuxiaoguai.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1
+  rotate: false
+  xy: 127, 117
+  size: 123, 131
+  orig: 123, 131
+  offset: 0, 0
+  index: -1
+images/2
+  rotate: false
+  xy: 252, 117
+  size: 123, 131
+  orig: 123, 131
+  offset: 0, 0
+  index: -1
+images/3
+  rotate: false
+  xy: 377, 117
+  size: 123, 131
+  orig: 123, 131
+  offset: 0, 0
+  index: -1
+images/4
+  rotate: false
+  xy: 502, 117
+  size: 123, 131
+  orig: 123, 131
+  offset: 0, 0
+  index: -1
+images/5
+  rotate: false
+  xy: 627, 117
+  size: 123, 131
+  orig: 123, 131
+  offset: 0, 0
+  index: -1
+images/6
+  rotate: false
+  xy: 752, 117
+  size: 123, 131
+  orig: 123, 131
+  offset: 0, 0
+  index: -1
+images/7
+  rotate: false
+  xy: 2, 117
+  size: 123, 131
+  orig: 123, 131
+  offset: 0, 0
+  index: -1
+images/D_01
+  rotate: false
+  xy: 2, 16
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_02
+  rotate: false
+  xy: 877, 149
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_03
+  rotate: false
+  xy: 103, 16
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_04
+  rotate: false
+  xy: 204, 16
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_05
+  rotate: false
+  xy: 305, 16
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_06
+  rotate: false
+  xy: 406, 16
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_07
+  rotate: false
+  xy: 507, 16
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/hurt
+  rotate: false
+  xy: 978, 211
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+images/jiao
+  rotate: true
+  xy: 1013, 202
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+images/jiao2
+  rotate: false
+  xy: 608, 52
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+images/mouth
+  rotate: false
+  xy: 978, 199
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+images/shenti
+  rotate: false
+  xy: 877, 117
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+images/shoubi
+  rotate: false
+  xy: 655, 100
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+images/shoubi2
+  rotate: false
+  xy: 901, 132
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+images/tou
+  rotate: false
+  xy: 608, 79
+  size: 45, 36
+  orig: 45, 36
+  offset: 0, 0
+  index: -1
+images/tui
+  rotate: false
+  xy: 608, 62
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+images/tui2
+  rotate: false
+  xy: 23, 3
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+images/weiba
+  rotate: false
+  xy: 2, 2
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+images/xiaoshou
+  rotate: false
+  xy: 999, 199
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+images/xiaoshou2
+  rotate: false
+  xy: 978, 187
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1

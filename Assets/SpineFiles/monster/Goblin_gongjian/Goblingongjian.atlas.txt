@@ -1,0 +1,125 @@
+
+Goblingongjian.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+datui01
+  rotate: true
+  xy: 2, 2
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+datui02
+  rotate: true
+  xy: 2, 2
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+gongjian01
+  rotate: false
+  xy: 153, 52
+  size: 44, 10
+  orig: 44, 10
+  offset: 0, 0
+  index: -1
+gongjian02
+  rotate: false
+  xy: 107, 25
+  size: 44, 15
+  orig: 44, 15
+  offset: 0, 0
+  index: -1
+gongjian03
+  rotate: false
+  xy: 107, 42
+  size: 44, 20
+  orig: 44, 20
+  offset: 0, 0
+  index: -1
+hurt
+  rotate: false
+  xy: 2, 9
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+jian
+  rotate: true
+  xy: 107, 15
+  size: 8, 29
+  orig: 8, 29
+  offset: 0, 0
+  index: -1
+jianbang
+  rotate: false
+  xy: 82, 4
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+jiantong
+  rotate: true
+  xy: 55, 2
+  size: 11, 25
+  orig: 11, 25
+  offset: 0, 0
+  index: -1
+jiao01
+  rotate: false
+  xy: 138, 16
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+jiao02
+  rotate: false
+  xy: 138, 16
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 153, 28
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+shou01
+  rotate: true
+  xy: 199, 54
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+shou02
+  rotate: false
+  xy: 170, 36
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+shoubi01
+  rotate: false
+  xy: 100, 4
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+shoubi02
+  rotate: false
+  xy: 180, 41
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 55, 15
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1

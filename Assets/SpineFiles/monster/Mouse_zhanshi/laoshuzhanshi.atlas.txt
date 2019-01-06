@@ -1,0 +1,265 @@
+
+laoshuzhanshi.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daoguang/daoguang_normal_01
+  rotate: false
+  xy: 2, 340
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+daoguang/daoguang_normal_02
+  rotate: false
+  xy: 2, 168
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+daoguang/daoguang_normal_03
+  rotate: false
+  xy: 154, 340
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+daoguang/daoguang_normal_04
+  rotate: false
+  xy: 154, 168
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+daoguang/daoguang_normal_05
+  rotate: true
+  xy: 2, 16
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+daoguang/daoguang_normal_06
+  rotate: false
+  xy: 306, 340
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+daoguang/daoguang_normal_07
+  rotate: false
+  xy: 306, 168
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+images/1
+  rotate: false
+  xy: 458, 379
+  size: 123, 131
+  orig: 123, 131
+  offset: 0, 0
+  index: -1
+images/2
+  rotate: false
+  xy: 299, 35
+  size: 123, 131
+  orig: 123, 131
+  offset: 0, 0
+  index: -1
+images/3
+  rotate: false
+  xy: 458, 246
+  size: 123, 131
+  orig: 123, 131
+  offset: 0, 0
+  index: -1
+images/4
+  rotate: false
+  xy: 583, 379
+  size: 123, 131
+  orig: 123, 131
+  offset: 0, 0
+  index: -1
+images/5
+  rotate: false
+  xy: 583, 246
+  size: 123, 131
+  orig: 123, 131
+  offset: 0, 0
+  index: -1
+images/6
+  rotate: false
+  xy: 708, 379
+  size: 123, 131
+  orig: 123, 131
+  offset: 0, 0
+  index: -1
+images/7
+  rotate: false
+  xy: 174, 35
+  size: 123, 131
+  orig: 123, 131
+  offset: 0, 0
+  index: -1
+images/D_01
+  rotate: false
+  xy: 708, 278
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_02
+  rotate: false
+  xy: 833, 411
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_03
+  rotate: false
+  xy: 458, 145
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_04
+  rotate: false
+  xy: 559, 145
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_05
+  rotate: false
+  xy: 424, 44
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_06
+  rotate: false
+  xy: 525, 44
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_07
+  rotate: false
+  xy: 660, 145
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/hurt
+  rotate: false
+  xy: 626, 87
+  size: 71, 56
+  orig: 71, 56
+  offset: 0, 0
+  index: -1
+images/jiao
+  rotate: false
+  xy: 1012, 493
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+images/jiao2
+  rotate: true
+  xy: 441, 155
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+images/mouth
+  rotate: false
+  xy: 2, 2
+  size: 36, 12
+  orig: 36, 12
+  offset: 0, 0
+  index: -1
+images/shenti
+  rotate: true
+  xy: 934, 423
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+images/shou
+  rotate: true
+  xy: 40, 2
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+images/shou2
+  rotate: true
+  xy: 55, 2
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+images/shoubi
+  rotate: false
+  xy: 699, 122
+  size: 8, 21
+  orig: 8, 21
+  offset: 0, 0
+  index: -1
+images/shoubi2
+  rotate: true
+  xy: 934, 413
+  size: 8, 21
+  orig: 8, 21
+  offset: 0, 0
+  index: -1
+images/tou
+  rotate: false
+  xy: 934, 457
+  size: 76, 53
+  orig: 76, 53
+  offset: 0, 0
+  index: -1
+images/tui
+  rotate: false
+  xy: 424, 145
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+images/tui2
+  rotate: false
+  xy: 833, 391
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+images/weiba
+  rotate: true
+  xy: 809, 339
+  size: 38, 14
+  orig: 38, 14
+  offset: 0, 0
+  index: -1
+images/wuqi
+  rotate: true
+  xy: 174, 16
+  size: 17, 51
+  orig: 17, 51
+  offset: 0, 0
+  index: -1
+images/xiaoshou
+  rotate: false
+  xy: 708, 253
+  size: 11, 23
+  orig: 11, 23
+  offset: 0, 0
+  index: -1
+images/xiaoshou2
+  rotate: false
+  xy: 626, 62
+  size: 11, 23
+  orig: 11, 23
+  offset: 0, 0
+  index: -1

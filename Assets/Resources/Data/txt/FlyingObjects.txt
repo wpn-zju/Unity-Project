@@ -1,0 +1,36 @@
+﻿ID	name	path	spawnPos	Destiny	Speed	damageEle	duration	buffList	Note
+1	冰箭 - 减速	MyResource/FlyingObject/gongjian_fachu_normal	-1,-1	-1,-1	0.5	1,1	-1	21	null
+2	火箭 - 加伤	MyResource/FlyingObject/huoyanjian	-1,-1	-1,-1	0.5	1,1	-1	24	null
+3	冰锥 - 减速	MyResource/FlyingObject/bingzhui01	-1,-1	-1,-1	0.5	1,1	-1	22	null
+4	火球 - 灼烧	MyResource/FlyingObject/FireballSprite	-1,-1	-1,-1	0.5	1,1	-1	23	null
+5	普通箭矢	MyResource/FlyingObject/gongjian	-1,-1	-1,-1	0.5	1,1	-1	null	null
+6	闪电 - 晕眩	MyResource/FlyingObject/shandian_hurt	-1,-1	-1,-1	0.5	1,1	-1	25	null
+7	冰锥 - 叠加减速	MyResource/FlyingObject/bingzhui01	-1,-1	-1,-1	0.5	0.7,1	-1	26	null
+8	地刺	MyResource/FlyingObject/dici	-2,-2	-1,-1	0.5	1,1	2.0	null	null
+9	弹幕红球	MyResource/FlyingObject/fashi_danmu	-1,-1	-1,-1	0.5	1,1	-1	null	null
+10	弹幕蓝球	MyResource/FlyingObject/fashi_danmu2	-1,-1	-1,-1	0.5	1,1	-1	null	null
+11	弹幕紫球	MyResource/FlyingObject/fashi_danmu3	-1,-1	-1,-1	0.5	1,1	-1	null	null
+12	弹幕绿球	MyResource/FlyingObject/fashi_danmu4	-1,-1	-1,-1	0.5	1,1	-1	null	null
+13	弹幕蓝锥	MyResource/FlyingObject/fashi_danmu5	-1,-1	-1,-1	0.5	1,1	-1	null	null
+14	弹幕灰球	MyResource/FlyingObject/fashi_danmu6	-1,-1	-1,-1	0.5	1,1	-1	null	null
+15	弹幕小蓝球	MyResource/FlyingObject/fashi_danmu7	-1,-1	-1,-1	0.5	1,1	-1	null	null
+16	蜥蜴喷射	MyResource/FlyingObject/Giant_Lizard_Shoot	-1,-1	-1,-1	0.5	1,1	-1	null	null
+17	蜥蜴标枪	MyResource/FlyingObject/Giant_Lizard_Spear_Shoot	-1,-1	-1,-1	0.5	1,1	-1	null	null
+18	精英箭矢	MyResource/FlyingObject/Goblin_gongjian_jingying	-1,-1	-1,-1	0.5	1,1	-1	null	null
+19	地面火焰	MyResource/FlyingObject/huoyanzadi	-2,-2	-1,-1	0.5	1,1	2.0	null	null
+20	鬼手	MyResource/FlyingObject/maoshou	-2,-2	-1,-1	0.5	1,1	2.0	null	null
+21	瞬时魔法盾	MyResource/FlyingObject/mofadun_qishi	-2,-2	-1,-1	0.5	1,2	2.0	null	null
+22	老鼠匕首	MyResource/FlyingObject/Mouse_dagger	-1,-1	-1,-1	0.5	1,1	-1	null	null
+23	老鼠箭矢 - 单发	MyResource/FlyingObject/Mouse_gongjian	-1,-1	-1,-1	0.5	1,0	-1	null	null
+24	麻痹	MyResource/FlyingObject/mabi	-2,-2	-1,-1	0.5	1,1	2.0	null	null
+25	燃烧	MyResource/FlyingObject/Poison	-2,-2	-1,-1	0.5	1,1	2.0	null	null
+26	亡灵弹	MyResource/FlyingObject/wanglingdan	-1,-1	-1,-1	0.5	1,1	-1	null	null
+27	南瓜砸地	MyResource/FlyingObject/zadi_nangua	-2,-2	-1,-1	0.5	1,1	2.0	null	null
+28	治疗特效	MyResource/FlyingObject/zhiliao	-2,-2	-1,-1	0.5	1,2	2.0	null	null
+29	老鼠箭矢 - 连射	MyResource/FlyingObject/Mouse_gongjian	-1,-1	-1,-1	0.5	0.25,0	-1	null	null
+30	箭雨 - 1	MyResource/FlyingObject/ArrowRain1	-8,8	-1,-1	0.5	0.25,0	-1	null	null
+31	箭雨 - 2	MyResource/FlyingObject/ArrowRain2	-8,8	-1,-1	0.5	0.25,0	-1	null	null
+32	箭雨 - 3	MyResource/FlyingObject/ArrowRain3	-8,8	-1,-1	0.5	0.25,0	-1	null	null
+33	箭雨 - 4	MyResource/FlyingObject/ArrowRain4	-8,8	-1,-1	0.5	0.25,0	-1	null	null
+34	箭雨 - 5	MyResource/FlyingObject/ArrowRain5	-8,8	-1,-1	0.5	0.25,0	-1	null	null
+35	箭雨 - 6	MyResource/FlyingObject/ArrowRain6	-8,8	-1,-1	0.5	0.25,0	-1	null	null

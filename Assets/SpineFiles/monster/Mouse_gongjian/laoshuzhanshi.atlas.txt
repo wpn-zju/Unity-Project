@@ -1,0 +1,335 @@
+
+laoshuzhanshi.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/D_01
+  rotate: false
+  xy: 586, 349
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_02
+  rotate: false
+  xy: 732, 636
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_03
+  rotate: false
+  xy: 878, 923
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_04
+  rotate: false
+  xy: 586, 248
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_05
+  rotate: false
+  xy: 732, 535
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_06
+  rotate: false
+  xy: 878, 822
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/D_07
+  rotate: false
+  xy: 586, 147
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/bashou
+  rotate: true
+  xy: 878, 742
+  size: 6, 16
+  orig: 6, 16
+  offset: 0, 0
+  index: -1
+images/danmu
+  rotate: false
+  xy: 2, 8
+  size: 48, 7
+  orig: 48, 7
+  offset: 0, 0
+  index: -1
+images/hurt
+  rotate: false
+  xy: 878, 764
+  size: 71, 56
+  orig: 71, 56
+  offset: 0, 0
+  index: -1
+images/jian
+  rotate: true
+  xy: 833, 691
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
+images/jiantong
+  rotate: false
+  xy: 732, 453
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+images/jiao
+  rotate: false
+  xy: 859, 718
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+images/jiao2
+  rotate: false
+  xy: 767, 463
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+images/mouth
+  rotate: false
+  xy: 878, 750
+  size: 36, 12
+  orig: 36, 12
+  offset: 0, 0
+  index: -1
+images/shenti
+  rotate: false
+  xy: 687, 403
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+images/shou
+  rotate: false
+  xy: 52, 2
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+images/shou2
+  rotate: false
+  xy: 810, 481
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+images/shoubi
+  rotate: false
+  xy: 576, 140
+  size: 8, 21
+  orig: 8, 21
+  offset: 0, 0
+  index: -1
+images/shoubi2
+  rotate: false
+  xy: 721, 427
+  size: 8, 21
+  orig: 8, 21
+  offset: 0, 0
+  index: -1
+images/shouzhi
+  rotate: false
+  xy: 916, 756
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+images/tou
+  rotate: false
+  xy: 732, 480
+  size: 76, 53
+  orig: 76, 53
+  offset: 0, 0
+  index: -1
+images/tui
+  rotate: false
+  xy: 979, 899
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+images/tui2
+  rotate: false
+  xy: 951, 802
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+images/weiba
+  rotate: true
+  xy: 810, 495
+  size: 38, 14
+  orig: 38, 14
+  offset: 0, 0
+  index: -1
+images/wuqi
+  rotate: false
+  xy: 979, 990
+  size: 43, 32
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+images/wuqi 2
+  rotate: false
+  xy: 979, 922
+  size: 43, 32
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+images/wuqi3
+  rotate: false
+  xy: 979, 956
+  size: 43, 32
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+images/xiaoshou
+  rotate: false
+  xy: 687, 378
+  size: 11, 23
+  orig: 11, 23
+  offset: 0, 0
+  index: -1
+images/xiaoshou2
+  rotate: false
+  xy: 833, 666
+  size: 11, 23
+  orig: 11, 23
+  offset: 0, 0
+  index: -1
+狂暴/guangzhu0001
+  rotate: false
+  xy: 2, 450
+  size: 144, 285
+  orig: 144, 285
+  offset: 0, 0
+  index: -1
+狂暴/guangzhu0002
+  rotate: false
+  xy: 148, 737
+  size: 144, 285
+  orig: 144, 285
+  offset: 0, 0
+  index: -1
+狂暴/guangzhu0003
+  rotate: false
+  xy: 2, 163
+  size: 144, 285
+  orig: 144, 285
+  offset: 0, 0
+  index: -1
+狂暴/guangzhu0004
+  rotate: false
+  xy: 148, 450
+  size: 144, 285
+  orig: 144, 285
+  offset: 0, 0
+  index: -1
+狂暴/guangzhu0005
+  rotate: false
+  xy: 294, 737
+  size: 144, 285
+  orig: 144, 285
+  offset: 0, 0
+  index: -1
+狂暴/guangzhu0006
+  rotate: false
+  xy: 148, 163
+  size: 144, 285
+  orig: 144, 285
+  offset: 0, 0
+  index: -1
+狂暴/guangzhu0007
+  rotate: true
+  xy: 2, 17
+  size: 144, 285
+  orig: 144, 285
+  offset: 0, 0
+  index: -1
+狂暴/guangzhu0008
+  rotate: false
+  xy: 294, 450
+  size: 144, 285
+  orig: 144, 285
+  offset: 0, 0
+  index: -1
+狂暴/guangzhu0009
+  rotate: false
+  xy: 440, 737
+  size: 144, 285
+  orig: 144, 285
+  offset: 0, 0
+  index: -1
+狂暴/guangzhu0010
+  rotate: false
+  xy: 294, 163
+  size: 144, 285
+  orig: 144, 285
+  offset: 0, 0
+  index: -1
+狂暴/guangzhu0011
+  rotate: false
+  xy: 440, 450
+  size: 144, 285
+  orig: 144, 285
+  offset: 0, 0
+  index: -1
+狂暴/guangzhu0012
+  rotate: false
+  xy: 586, 737
+  size: 144, 285
+  orig: 144, 285
+  offset: 0, 0
+  index: -1
+狂暴/guangzhu0013
+  rotate: false
+  xy: 440, 163
+  size: 144, 285
+  orig: 144, 285
+  offset: 0, 0
+  index: -1
+狂暴/guangzhu0014
+  rotate: true
+  xy: 289, 17
+  size: 144, 285
+  orig: 144, 285
+  offset: 0, 0
+  index: -1
+狂暴/guangzhu0015
+  rotate: false
+  xy: 586, 450
+  size: 144, 285
+  orig: 144, 285
+  offset: 0, 0
+  index: -1
+狂暴/guangzhu0016
+  rotate: false
+  xy: 732, 737
+  size: 144, 285
+  orig: 144, 285
+  offset: 0, 0
+  index: -1
+狂暴/guangzhu0017
+  rotate: false
+  xy: 2, 737
+  size: 144, 285
+  orig: 144, 285
+  offset: 0, 0
+  index: -1

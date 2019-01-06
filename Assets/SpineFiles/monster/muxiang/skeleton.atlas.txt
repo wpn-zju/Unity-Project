@@ -1,0 +1,265 @@
+
+skeleton.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+muxiang01
+  rotate: false
+  xy: 1328, 322
+  size: 43, 53
+  orig: 43, 53
+  offset: 0, 0
+  index: -1
+xiangzi/xiangzi0001
+  rotate: false
+  xy: 2, 377
+  size: 171, 123
+  orig: 171, 123
+  offset: 0, 0
+  index: -1
+xiangzi/xiangzi0002
+  rotate: false
+  xy: 2, 252
+  size: 171, 123
+  orig: 171, 123
+  offset: 0, 0
+  index: -1
+xiangzi/xiangzi0003
+  rotate: false
+  xy: 175, 377
+  size: 171, 123
+  orig: 171, 123
+  offset: 0, 0
+  index: -1
+xiangzi/xiangzi0004
+  rotate: false
+  xy: 2, 127
+  size: 171, 123
+  orig: 171, 123
+  offset: 0, 0
+  index: -1
+xiangzi/xiangzi0005
+  rotate: false
+  xy: 175, 252
+  size: 171, 123
+  orig: 171, 123
+  offset: 0, 0
+  index: -1
+xiangzi/xiangzi0006
+  rotate: false
+  xy: 348, 377
+  size: 171, 123
+  orig: 171, 123
+  offset: 0, 0
+  index: -1
+xiangzi/xiangzi0007
+  rotate: false
+  xy: 2, 2
+  size: 171, 123
+  orig: 171, 123
+  offset: 0, 0
+  index: -1
+xiangzi/xiangzi0008
+  rotate: false
+  xy: 175, 127
+  size: 171, 123
+  orig: 171, 123
+  offset: 0, 0
+  index: -1
+xiangzi/xiangzi0009
+  rotate: false
+  xy: 348, 252
+  size: 171, 123
+  orig: 171, 123
+  offset: 0, 0
+  index: -1
+xiangzi/xiangzi0010
+  rotate: false
+  xy: 521, 377
+  size: 171, 123
+  orig: 171, 123
+  offset: 0, 0
+  index: -1
+xiangzi/xiangzi0011
+  rotate: false
+  xy: 175, 2
+  size: 171, 123
+  orig: 171, 123
+  offset: 0, 0
+  index: -1
+xiangzi/xiangzi0012
+  rotate: false
+  xy: 348, 127
+  size: 171, 123
+  orig: 171, 123
+  offset: 0, 0
+  index: -1
+xiangzi/xiangzi0013
+  rotate: false
+  xy: 521, 252
+  size: 171, 123
+  orig: 171, 123
+  offset: 0, 0
+  index: -1
+xiangzi/xiangzi0014
+  rotate: false
+  xy: 694, 377
+  size: 171, 123
+  orig: 171, 123
+  offset: 0, 0
+  index: -1
+xiangzi/xiangzi0015
+  rotate: false
+  xy: 348, 2
+  size: 171, 123
+  orig: 171, 123
+  offset: 0, 0
+  index: -1
+xiangzi/xiangzi0016
+  rotate: false
+  xy: 521, 127
+  size: 171, 123
+  orig: 171, 123
+  offset: 0, 0
+  index: -1
+xiangzi/xiangzi0017
+  rotate: false
+  xy: 694, 252
+  size: 171, 123
+  orig: 171, 123
+  offset: 0, 0
+  index: -1
+xiangzi/xiangzi0018
+  rotate: false
+  xy: 867, 377
+  size: 171, 123
+  orig: 171, 123
+  offset: 0, 0
+  index: -1
+xiangzi/xiangzi0019
+  rotate: false
+  xy: 521, 2
+  size: 171, 123
+  orig: 171, 123
+  offset: 0, 0
+  index: -1
+xiangzi/xiangzi0020
+  rotate: false
+  xy: 694, 127
+  size: 171, 123
+  orig: 171, 123
+  offset: 0, 0
+  index: -1
+xiangzi/xiangzi0021
+  rotate: false
+  xy: 867, 252
+  size: 171, 123
+  orig: 171, 123
+  offset: 0, 0
+  index: -1
+xiangzi/xiangzi0022
+  rotate: false
+  xy: 1040, 377
+  size: 171, 123
+  orig: 171, 123
+  offset: 0, 0
+  index: -1
+xiangzi/xiangzi0023
+  rotate: false
+  xy: 694, 2
+  size: 171, 123
+  orig: 171, 123
+  offset: 0, 0
+  index: -1
+xiangzi/xiangzi0024
+  rotate: false
+  xy: 867, 127
+  size: 171, 123
+  orig: 171, 123
+  offset: 0, 0
+  index: -1
+xiangzi/xiangzi0025
+  rotate: false
+  xy: 1040, 252
+  size: 171, 123
+  orig: 171, 123
+  offset: 0, 0
+  index: -1
+xiangzi/xiangzi0026
+  rotate: false
+  xy: 1213, 377
+  size: 171, 123
+  orig: 171, 123
+  offset: 0, 0
+  index: -1
+xiangzi/xiangzi0027
+  rotate: false
+  xy: 867, 2
+  size: 171, 123
+  orig: 171, 123
+  offset: 0, 0
+  index: -1
+xiangzi/xiangzi0028
+  rotate: false
+  xy: 1040, 127
+  size: 171, 123
+  orig: 171, 123
+  offset: 0, 0
+  index: -1
+yanwu02/烟雾01
+  rotate: false
+  xy: 1386, 387
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+yanwu02/烟雾02
+  rotate: false
+  xy: 1040, 12
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+yanwu02/烟雾03
+  rotate: false
+  xy: 1213, 147
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+yanwu02/烟雾04
+  rotate: false
+  xy: 1501, 387
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+yanwu02/烟雾05
+  rotate: false
+  xy: 1616, 387
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+yanwu02/烟雾06
+  rotate: false
+  xy: 1731, 387
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+yanwu02/烟雾07
+  rotate: false
+  xy: 1846, 387
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+yanwu02/烟雾08
+  rotate: false
+  xy: 1213, 262
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1

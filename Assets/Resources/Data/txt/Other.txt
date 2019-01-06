@@ -1,0 +1,15 @@
+﻿ID	Name	CN Name	Describe	CN Describe	Price In	Price Out	Icon Path	Quality	Type	Null
+70001	Random Rune	随机符石道具	Get 1 rune by random	随机获得一块符石	500	40	necklace_1_0	3	1	null
+70002	Random Green Equipment	随机绿色装备道具	Get 1 green equipment by random	随机获得一件绿色装备	5	4	necklace_1_0	1	1	null
+70003	Random Blue Equipment	随机蓝色装备道具	Get 1 blue equipment by random	随机获得一件蓝色装备	20	16	necklace_1_0	2	1	null
+70004	Random Violet Equipment	随机紫色装备道具	Get 1 violet equipment by random	随机获得一件紫色装备	100	80	necklace_1_0	3	1	null
+70005	Random Gold Equipment	随机金色装备道具	Get 1 gold equipment by random	随机获得一件金色装备	500	400	necklace_1_0	4	1	null
+80001	Slam	强击	Passive effect - Attack + 20%, Armor Penetration + 20%	被动效果 - 攻击提升20%，护甲穿透提升20%	500	400	Rune_Burn	3	2	null
+80002	Lucky	幸运	Passive effect - Lucky + 20	被动效果 - 幸运提升20点	500	400	Rune_Boom	3	2	null
+80003	Crit	暴击	Passive effect - Crit + 20%, Crit.Damage + 50%	被动效果 - 暴击几率提升20%，暴击伤害提升50%	500	400	Rune_Critical	3	2	null
+80004	Fortitude	坚强	Passive effect - Health Point + 20%, Defense + 20%	被动效果 - 生命值上限提升20%，防御提升20%	500	400	Rune_God	3	2	null
+80005	Wisdom	智慧	Passive effect - Mana Point + 20%, Mana Cost - 20%	被动效果 - 法力值上限提升20%，法力消耗降低20%	500	400	Rune_Stun	3	2	null
+80006	Thorn Armor	刺甲	Passive effect - Reflect Damage + 50%	被动效果 - 反弹伤害提高50%	500	400	Rune_Block	3	2	null
+80007	Life Steal	嗜血	Passive effect - Lifesteal + 30%	被动效果 - 吸血提高30%	500	400	Rune_LifeSteal	3	2	null
+80008	Agile	敏捷	Passive effect - Speed + 30%	被动效果 - 速度提高30%	500	400	Rune_LightningChain	3	2	null
+80009	Heal	治疗术	Active effect - Heal 25% health point for ONE character. (Mana Cost : 100)	主动效果 - 发动后回复单体生命25% （法力消耗 : 100）	500	400	Rune_Heal	3	2	null

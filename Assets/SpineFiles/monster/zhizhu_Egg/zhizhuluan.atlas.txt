@@ -1,0 +1,160 @@
+
+zhizhuluan.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 204, 216
+  size: 97, 90
+  orig: 97, 90
+  offset: 0, 0
+  index: -1
+A_01
+  rotate: false
+  xy: 204, 216
+  size: 97, 90
+  orig: 97, 90
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 305, 318
+  size: 97, 90
+  orig: 97, 90
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 406, 420
+  size: 97, 90
+  orig: 97, 90
+  offset: 0, 0
+  index: -1
+A_02
+  rotate: false
+  xy: 103, 12
+  size: 97, 90
+  orig: 97, 90
+  offset: 0, 0
+  index: -1
+A_03
+  rotate: false
+  xy: 204, 124
+  size: 97, 90
+  orig: 97, 90
+  offset: 0, 0
+  index: -1
+A_04
+  rotate: false
+  xy: 204, 32
+  size: 97, 90
+  orig: 97, 90
+  offset: 0, 0
+  index: -1
+A_05
+  rotate: false
+  xy: 305, 226
+  size: 97, 90
+  orig: 97, 90
+  offset: 0, 0
+  index: -1
+dead_01
+  rotate: false
+  xy: 2, 308
+  size: 99, 100
+  orig: 99, 100
+  offset: 0, 0
+  index: -1
+dead_02
+  rotate: false
+  xy: 103, 410
+  size: 99, 100
+  orig: 99, 100
+  offset: 0, 0
+  index: -1
+dead_03
+  rotate: false
+  xy: 2, 206
+  size: 99, 100
+  orig: 99, 100
+  offset: 0, 0
+  index: -1
+dead_04
+  rotate: false
+  xy: 103, 308
+  size: 99, 100
+  orig: 99, 100
+  offset: 0, 0
+  index: -1
+dead_05
+  rotate: false
+  xy: 204, 410
+  size: 99, 100
+  orig: 99, 100
+  offset: 0, 0
+  index: -1
+dead_06
+  rotate: false
+  xy: 2, 104
+  size: 99, 100
+  orig: 99, 100
+  offset: 0, 0
+  index: -1
+dead_07
+  rotate: false
+  xy: 2, 2
+  size: 99, 100
+  orig: 99, 100
+  offset: 0, 0
+  index: -1
+dead_08
+  rotate: false
+  xy: 103, 206
+  size: 99, 100
+  orig: 99, 100
+  offset: 0, 0
+  index: -1
+dead_09
+  rotate: false
+  xy: 204, 308
+  size: 99, 100
+  orig: 99, 100
+  offset: 0, 0
+  index: -1
+dead_10
+  rotate: false
+  xy: 305, 410
+  size: 99, 100
+  orig: 99, 100
+  offset: 0, 0
+  index: -1
+dead_11
+  rotate: false
+  xy: 103, 104
+  size: 99, 100
+  orig: 99, 100
+  offset: 0, 0
+  index: -1
+dead_12
+  rotate: false
+  xy: 2, 410
+  size: 99, 100
+  orig: 99, 100
+  offset: 0, 0
+  index: -1
+hurt_01
+  rotate: false
+  xy: 303, 134
+  size: 97, 90
+  orig: 97, 90
+  offset: 0, 0
+  index: -1
+hurt_02
+  rotate: false
+  xy: 303, 42
+  size: 97, 90
+  orig: 97, 90
+  offset: 0, 0
+  index: -1
