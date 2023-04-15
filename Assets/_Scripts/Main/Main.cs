@@ -22,7 +22,7 @@ public class Main : MonoBehaviour
 
         UnityEngine.Object.DontDestroyOnLoad(gameObject);
         UnityEngine.Object.DontDestroyOnLoad(GameObject.Find("EventSystem"));
-        UnityEngine.Object.DontDestroyOnLoad(GameObject.Find("RuntimeScripts"));
+        UnityEngine.Object.DontDestroyOnLoad(GameObject.Find("Runtime"));
         UnityEngine.Object.DontDestroyOnLoad(GameObject.Find("Main Camera"));
         UnityEngine.Object.DontDestroyOnLoad(GameObject.Find("UI Camera"));
         UnityEngine.Object.DontDestroyOnLoad(GameObject.Find("AudioBackground"));

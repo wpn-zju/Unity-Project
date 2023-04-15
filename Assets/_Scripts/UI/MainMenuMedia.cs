@@ -1,10 +1,13 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
 public class MainMenuMedia : BaseMedia
 {
+    public delegate int TestDelegate(int x);
+
     private Button continueGame;
     private Button newGame;
     private Button credits;
@@ -29,6 +32,10 @@ public class MainMenuMedia : BaseMedia
 
     public override void Init()
     {
+        TestDelegate getint = delegate (int x) { return x; };
+        TestDelegate getint2 = (int x) => { return x; };
+        TestDelegate getint3 = x => { return x; };
+
         base.Init();
         continueGame = panel.Find("Continue").GetComponent<Button>();
         newGame = panel.Find("NewGame").GetComponent<Button>();

@@ -18,7 +18,7 @@ public static class BossAIHandle
     private static Buff pkIgnite = new Buff();
     private static Buff pkNumb = new Buff();
 
-    private static Buff arrowNumb = new Buff(); public static void Init()
+    public static void Init()
     {
         rockyTough.name = "Rocky Tough";
         rockyTough.cnName = "岩石硬化";
